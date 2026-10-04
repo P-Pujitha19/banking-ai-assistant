@@ -10,7 +10,8 @@ API_URL = os.environ.get("ASSISTANT_API_URL", "http://127.0.0.1:8000").rstrip("/
 TIMEOUT = 45
 
 st.set_page_config(page_title="Banking Assistant", page_icon="🏦", layout="wide")
-
+from backend_bootstrap import ensure_backend
+ensure_backend()
 
 @st.cache_data(ttl=60, show_spinner=False)
 def load_customers() -> list[dict]:
