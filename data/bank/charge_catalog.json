@@ -1,0 +1,50 @@
+[
+  {
+    "match": "SMS ALERT",
+    "label": "SMS alert service charge",
+    "is_charge": true,
+    "explanation": "A quarterly charge of ₹15 for SMS transaction alerts, plus 18% GST on the charge."
+  },
+  {
+    "match": "GST ON",
+    "label": "GST on bank charges",
+    "is_charge": true,
+    "explanation": "18% GST that is applied on bank service charges (such as SMS alerts, card fees and penalties)."
+  },
+  {
+    "match": "DEBIT CARD ANNUAL",
+    "label": "Debit card annual fee",
+    "is_charge": true,
+    "explanation": "The yearly maintenance fee of ₹250 (plus GST) for your debit card."
+  },
+  {
+    "match": "ATM WDL FEE",
+    "label": "ATM withdrawal fee",
+    "is_charge": true,
+    "explanation": "Charged when you exceed the free ATM transactions in a month: ₹21 plus GST per transaction."
+  },
+  {
+    "match": "MIN BAL PENALTY",
+    "label": "Minimum balance penalty",
+    "is_charge": true,
+    "explanation": "Charged when the average balance falls below the minimum required for the account type (₹300 for a savings account)."
+  },
+  {
+    "match": "EMI AUTO DEBIT",
+    "label": "Loan EMI auto-debit",
+    "is_charge": false,
+    "explanation": "The scheduled monthly instalment (EMI) for your loan, auto-debited on the due date."
+  },
+  {
+    "match": "SB INTEREST",
+    "label": "Savings interest credit",
+    "is_charge": false,
+    "explanation": "Interest paid by the bank on your savings balance."
+  },
+  {
+    "match": "SALARY",
+    "label": "Salary credit",
+    "is_charge": false,
+    "explanation": "Monthly salary credited by your employer."
+  }
+]

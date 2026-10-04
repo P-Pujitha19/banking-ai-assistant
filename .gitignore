@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+logs/*.log
+models/vector_store/
+models/intent/
+evaluation_reports/*.json

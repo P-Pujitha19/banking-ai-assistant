@@ -1,0 +1,160 @@
+{
+ "positive": [
+  {
+   "query": "What is the minimum balance for a savings account?",
+   "expected_docs": [
+    "savings_account",
+    "minimum_balance"
+   ]
+  },
+  {
+   "query": "minimum balance current account",
+   "expected_docs": [
+    "current_account",
+    "minimum_balance"
+   ]
+  },
+  {
+   "query": "penalty if I don't keep minimum balance",
+   "expected_docs": [
+    "minimum_balance"
+   ]
+  },
+  {
+   "query": "Is a salary account zero balance?",
+   "expected_docs": [
+    "salary_account"
+   ]
+  },
+  {
+   "query": "How much is the debit card annual fee?",
+   "expected_docs": [
+    "banking_charges",
+    "account_features"
+   ]
+  },
+  {
+   "query": "charges for IMPS transfer",
+   "expected_docs": [
+    "banking_charges"
+   ]
+  },
+  {
+   "query": "ATM fee after free transactions",
+   "expected_docs": [
+    "banking_charges"
+   ]
+  },
+  {
+   "query": "what is the daily UPI limit",
+   "expected_docs": [
+    "transaction_limits"
+   ]
+  },
+  {
+   "query": "ATM cash withdrawal limit per day",
+   "expected_docs": [
+    "transaction_limits"
+   ]
+  },
+  {
+   "query": "personal loan processing fee",
+   "expected_docs": [
+    "loan_products"
+   ]
+  },
+  {
+   "query": "home loan prepayment charges",
+   "expected_docs": [
+    "loan_products"
+   ]
+  },
+  {
+   "query": "what credit score is needed for a home loan",
+   "expected_docs": [
+    "loan_eligibility_rules"
+   ]
+  },
+  {
+   "query": "what documents do I need to apply for a loan",
+   "expected_docs": [
+    "loan_eligibility_rules"
+   ]
+  },
+  {
+   "query": "fixed deposit rate for 1 year",
+   "expected_docs": [
+    "interest_rates"
+   ]
+  },
+  {
+   "query": "savings account interest rate",
+   "expected_docs": [
+    "interest_rates",
+    "savings_account"
+   ]
+  },
+  {
+   "query": "what happens if my debit card is lost",
+   "expected_docs": [
+    "faqs"
+   ]
+  },
+  {
+   "query": "UPI payment failed but money deducted",
+   "expected_docs": [
+    "faqs"
+   ]
+  },
+  {
+   "query": "how often must KYC be updated",
+   "expected_docs": [
+    "banking_policies"
+   ]
+  },
+  {
+   "query": "how long does complaint resolution take",
+   "expected_docs": [
+    "banking_policies"
+   ]
+  },
+  {
+   "query": "does the bank ask for OTP",
+   "expected_docs": [
+    "banking_policies"
+   ]
+  },
+  {
+   "query": "nomination facility on my account",
+   "expected_docs": [
+    "account_features",
+    "savings_account"
+   ]
+  },
+  {
+   "query": "what are overdraft facilities for current account",
+   "expected_docs": [
+    "current_account"
+   ]
+  },
+  {
+   "query": "education loan co-applicant",
+   "expected_docs": [
+    "loan_products"
+   ]
+  },
+  {
+   "query": "how is average monthly balance calculated",
+   "expected_docs": [
+    "minimum_balance"
+   ]
+  }
+ ],
+ "negative": [
+  "what's the weather today",
+  "tell me a joke",
+  "who won the cricket match",
+  "best pizza recipe",
+  "capital of france"
+ ]
+}

@@ -1,0 +1,33 @@
+# docker compose up --build   ->  UI http://localhost:8501 | assistant API :8000/docs | mock bank :8001/docs
+# Put LLM_PROVIDER / LLM_MODEL / LLM_API_KEY in a local .env file to enable the real LLM (otherwise demo mode).
+services:
+  bank-api:
+    build: .
+    command: uvicorn banking_ai.api.bank_app:app --host 0.0.0.0 --port 8001
+    environment:
+      BANK_API_KEY: ${BANK_API_KEY:-dev-only-change-me}
+      LOG_FILE: none
+    ports: ["8001:8001"]
+
+  assistant-api:
+    build: .
+    command: uvicorn banking_ai.api.assistant_app:app --host 0.0.0.0 --port 8000
+    depends_on: [bank-api]
+    environment:
+      BANK_API_MODE: http
+      BANK_API_URL: http://bank-api:8001
+      BANK_API_KEY: ${BANK_API_KEY:-dev-only-change-me}
+      LLM_PROVIDER: ${LLM_PROVIDER:-mock}
+      LLM_MODEL: ${LLM_MODEL:-}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER:-tfidf}
+      LOG_FILE: none
+    ports: ["8000:8000"]
+
+  ui:
+    build: .
+    command: streamlit run frontend/streamlit_app.py --server.port 8501 --server.address 0.0.0.0
+    depends_on: [assistant-api]
+    environment:
+      ASSISTANT_API_URL: http://assistant-api:8000
+    ports: ["8501:8501"]

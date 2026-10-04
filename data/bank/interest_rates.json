@@ -1,0 +1,99 @@
+[
+  {
+    "product_type": "savings_account",
+    "product_name": "Savings Account",
+    "category": "deposit",
+    "rate_min": 3.5,
+    "rate_max": 4.0,
+    "details": [
+      "3.50% p.a. on balances up to ₹10,00,000",
+      "4.00% p.a. on balances above ₹10,00,000"
+    ]
+  },
+  {
+    "product_type": "salary_account",
+    "product_name": "Salary Account",
+    "category": "deposit",
+    "rate_min": 3.5,
+    "rate_max": 3.5,
+    "details": [
+      "3.50% p.a. on all balances"
+    ]
+  },
+  {
+    "product_type": "current_account",
+    "product_name": "Current Account",
+    "category": "deposit",
+    "rate_min": 0.0,
+    "rate_max": 0.0,
+    "details": [
+      "No interest is paid on current accounts"
+    ]
+  },
+  {
+    "product_type": "fixed_deposit",
+    "product_name": "Fixed Deposit",
+    "category": "deposit",
+    "rate_min": 3.5,
+    "rate_max": 7.0,
+    "details": [
+      "7 to 45 days: 3.50% p.a.",
+      "46 to 180 days: 4.75% p.a.",
+      "181 to 364 days: 5.75% p.a.",
+      "1 year to less than 2 years: 6.75% p.a.",
+      "2 years to less than 3 years: 7.00% p.a.",
+      "3 years to 5 years: 6.75% p.a.",
+      "Senior citizens get an additional 0.50% p.a."
+    ]
+  },
+  {
+    "product_type": "recurring_deposit",
+    "product_name": "Recurring Deposit",
+    "category": "deposit",
+    "rate_min": 6.5,
+    "rate_max": 6.5,
+    "details": [
+      "6.50% p.a. for tenures of 6 months to 10 years"
+    ]
+  },
+  {
+    "product_type": "personal_loan",
+    "product_name": "Personal Loan",
+    "category": "loan",
+    "rate_min": 10.99,
+    "rate_max": 16.5,
+    "details": [
+      "10.99% to 16.50% p.a.; indicative rate 11.49% p.a. (final rate depends on credit score and loan amount)"
+    ]
+  },
+  {
+    "product_type": "home_loan",
+    "product_name": "Home Loan",
+    "category": "loan",
+    "rate_min": 8.5,
+    "rate_max": 9.75,
+    "details": [
+      "8.50% to 9.75% p.a.; indicative rate 8.65% p.a. (final rate depends on credit score and loan amount)"
+    ]
+  },
+  {
+    "product_type": "car_loan",
+    "product_name": "Car Loan",
+    "category": "loan",
+    "rate_min": 8.75,
+    "rate_max": 11.5,
+    "details": [
+      "8.75% to 11.50% p.a.; indicative rate 9.25% p.a. (final rate depends on credit score and loan amount)"
+    ]
+  },
+  {
+    "product_type": "education_loan",
+    "product_name": "Education Loan",
+    "category": "loan",
+    "rate_min": 8.9,
+    "rate_max": 12.0,
+    "details": [
+      "8.90% to 12.00% p.a.; indicative rate 9.75% p.a. (final rate depends on credit score and loan amount)"
+    ]
+  }
+]

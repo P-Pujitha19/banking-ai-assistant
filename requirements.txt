@@ -1,0 +1,27 @@
+# Core runtime
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+python-dotenv>=1.0
+requests>=2.31
+pydantic>=2.6
+
+# ML / deep learning
+tensorflow>=2.16,<2.20
+
+# Web
+fastapi>=0.110
+uvicorn[standard]>=0.29
+streamlit>=1.33
+
+# LangChain / GenAI / RAG
+langchain-core>=0.3
+langchain-chroma>=0.1.4
+chromadb>=0.5
+langchain-openai>=0.2          # only needed when LLM_PROVIDER=openai or EMBEDDING_PROVIDER=openai
+langchain-google-genai>=2.0    # only needed when LLM_PROVIDER=gemini
+# langchain-huggingface>=0.1 and sentence-transformers>=3 are needed for EMBEDDING_PROVIDER=huggingface
+
+# Testing
+pytest>=8.0
+httpx>=0.27

@@ -1,0 +1,2080 @@
+text,intent
+show my account details thanks,account_information
+how much interest does my savings account earn,interest_rate
+can you tell me give me my account information please,account_information
+"hey, tell me about my last payment",recent_transaction
+why did i get charged,transaction_explanation
+please what's my available balance now,balance_inquiry
+Interest Rates Please,interest_rate
+CAN YOU TELL ME AND FOR 2 YEARS,fallback
+can you tell me calculate the emi,emi_calculation
+what are the features of my account now,account_information
+details of car loan,loan_information
+what is my monthly emi for 7 years,emi_calculation
+how much will i pay every month for 2 lakh over 5 years,emi_calculation
+"hi, what are the current home loan rates please",interest_rate
+interest rate ?,interest_rate
+could you tell me car loan interest rate,interest_rate
+could you tell me compare housing loan with personal loan thanks,loan_comparison
+What'S My Available Balance,balance_inquiry
+what types of loans do you have today,loan_information
+quick question - compare car loan with car loan,loan_comparison
+show my profile,account_information
+"HI, SHOW MY LATEST TRANSACTION THANKS",recent_transaction
+Please Remaining Balance In My Account Now,balance_inquiry
+will my education loan of 7.5 lakh be approved,loan_eligibility
+current balance of my account,balance_inquiry
+"HI, WHAT IS MY ACCOUNT BALANCE TODAY",balance_inquiry
+What Charges Have Been Applied Recently Thanks,account_charges
+please fixed deposit interest rates,interest_rate
+"i want to know, how much housing loan am i eligible for",loan_eligibility
+please home loan versus car loan thanks,loan_comparison
+COMPARE PERSONAL LOAN AND HOME LOAN ?,loan_comparison
+for 15 years then ?,fallback
+could you tell me tell me about loans now,loan_information
+what types of loans do you have,loan_information
+quick question - i want to see my transaction history now,transaction_history
+"hi, show recent payments from my account ?",transaction_history
+quick question - how much car loan am i eligible for,loan_eligibility
+please explain transaction TXN10000221 thanks,transaction_explanation
+"hello, what was my last credit ?",recent_transaction
+"hi, i want to know about loans today",loan_information
+quick question - find emi for 1 crore loan thanks,emi_calculation
+CAN YOU TELL ME DETAILS OF EDUCATION LOAN,loan_information
+will my personal loan of 10 lakh be approved thanks,loan_eligibility
+what is this sms alert charge today,transaction_explanation
+please show my neft transactions,transaction_history
+"hey, how much balance should i keep in my savings account",minimum_balance
+"hi, mini statement",transaction_history
+help me!,help
+can you tell me i need a housing loan of 1 crore,loan_eligibility
+quick question - show my latest transaction thanks,recent_transaction
+QUICK QUESTION - LAST TRANSACTION DETAILS,recent_transaction
+compare the loan products thanks,loan_comparison
+"i want to know, what is my account balance",balance_inquiry
+"i want to know, compare personal loan and home loan",loan_comparison
+"hi, why was this amount debited please",transaction_explanation
+"i want to know, check my loan eligibility thanks",loan_eligibility
+quick question - why was i charged a penalty now,transaction_explanation
+can you tell me show my balance,balance_inquiry
+"hello, and my last transaction now",recent_transaction
+"i want to know, how much is the cheque book fee please",account_charges
+what is the processing fee for a car loan please,loan_information
+"HEY, SHOW ME THE BALANCE OF MY SALARY ACCOUNT",balance_inquiry
+"hello, what is the gst on charges please",account_charges
+"hello, tell me the roi on student loan",interest_rate
+"hello, can i afford the emi for a car loan of 75k",loan_eligibility
+"i want to know, can i get a auto loan",loan_eligibility
+"hello, why did i get charged",transaction_explanation
+"hi, make it 10 years",fallback
+what is the difference between a car loan and a education loan,loan_comparison
+how much interest does my savings account earn thanks,interest_rate
+and my last transaction,recent_transaction
+"hi, eligibility for home loan",loan_eligibility
+quick question - what is the last transaction on my account,recent_transaction
+CAN YOU TELL ME DETAILS OF EDUCATION LOAN THANKS,loan_information
+quick question - remaining balance in my account today,balance_inquiry
+please show me all loans,loan_information
+"hey, list of all fees ?",account_charges
+namaste :),greeting
+what about my last transaction,recent_transaction
+please book a flight to delhi now,fallback
+can you tell me show me all loans,loan_information
+"hey, i want to know about loans thanks",loan_information
+please how much minimum balance should i maintain,minimum_balance
+can you tell me list the last 15 transactions on my account now,transaction_history
+"hi, do you offer education loan please",loan_information
+quick question - average monthly balance required today,minimum_balance
+i see a deduction i don't recognise,transaction_explanation
+"calculate emi for rs 8,00,000 for 5 yrs at 12% thanks",emi_calculation
+"i want to know, what is gst charge in my statement now",transaction_explanation
+Compare Home Loan And Car Loan Interest Rates Today,loan_comparison
+quick question - what rate do you charge on personal loan please,interest_rate
+thank you so much!,goodbye
+"Hi, Give Me Free Money",fallback
+Please Show My Debit Transactions Today,transaction_history
+quick question - how much money do i have,balance_inquiry
+can you tell me average monthly balance required today,minimum_balance
+please interest rates please thanks,interest_rate
+"i want to know, how much do you charge for imps now",account_charges
+service charges on my account now,account_charges
+"hi, what is a home loan now",loan_information
+housing loan vs home loan,loan_comparison
+How Tall Is Mount Everest Please,fallback
+"quick question - what is the emi for a education loan of rs 8,00,000 for 3 years now",emi_calculation
+"hey, explain this transaction",transaction_explanation
+account type and status,account_information
+quick question - last upi payment please,recent_transaction
+"hello, show me the balance of my current account today",balance_inquiry
+why was 5 lakh deducted,transaction_explanation
+what interest do i get on my savings account today,interest_rate
+how much balance should i keep in my salary account today,minimum_balance
+what is gst charge in my statement,transaction_explanation
+"hey, what is bitcoin price",fallback
+please what type of account do i have ?,account_information
+quick question - what benefits does my account have,account_information
+"hey, what are the bank charges",account_charges
+what do you do,help
+"hello, interest rates please thanks",interest_rate
+quick question - average monthly balance required ?,minimum_balance
+"what is the emi for a student loan of rs 8,00,000 for 5 yrs",emi_calculation
+quick question - make it 3 years,fallback
+bye bye :),goodbye
+"hello, minimum balance penalty",minimum_balance
+good morning,greeting
+"hello, account type and status today",account_information
+quick question - i want a home loan,loan_eligibility
+how do i cook biryani,fallback
+"hey, how much is the cheque book fee",account_charges
+can you tell me when did i last make a payment,recent_transaction
+how do i apply for a education loan today,loan_information
+quick question - i want to know my balance ?,balance_inquiry
+TRANSACTION HISTORY,transaction_history
+"i want to know, account maintenance charges today",account_charges
+"hi, rate of interest for personal loan ?",interest_rate
+"hi, i want to know my balance",balance_inquiry
+what are the charges for my account now,account_charges
+could you tell me my account number ?,account_information
+find emi for 75k loan please,emi_calculation
+"hello, show me all loans today",loan_information
+"i need a auto loan of rs 8,00,000",loan_eligibility
+"hi, what is the emi for a housing loan of 10 lakh for 36 months now",emi_calculation
+what transactions happened this month ?,transaction_history
+"i want to know, what is the emi for a personal loan of 50000 for 20 years",emi_calculation
+quick question - calculate my emi ?,emi_calculation
+"Hey, What Are The Account Charges",account_charges
+"I Want To Know, Am I Eligible For A Student Loan Thanks",loan_eligibility
+could you tell me check if i can get 50000 loan thanks,loan_eligibility
+could you tell me housing loan vs education loan thanks,loan_comparison
+and for 5 years thanks,fallback
+COULD YOU TELL ME I NEED A CAR LOAN OF 50000 NOW,loan_eligibility
+quick question - account summary ?,account_information
+what is the fd rate for 1 year,interest_rate
+"hi, what is the penalty for low balance ?",minimum_balance
+"Hi, What Is The Minimum Balance Requirement Thanks",minimum_balance
+"hey, what is my total balance",balance_inquiry
+"i want to know, minimum balance penalty ?",minimum_balance
+hello,greeting
+"i want to know, find emi for 5 lakh loan ?",emi_calculation
+hello assistant :),greeting
+housing loan or car loan which should i choose,loan_comparison
+could you tell me i need my account statement,transaction_history
+"hello, when was my last transaction now",recent_transaction
+what is this sms alert charge,transaction_explanation
+"HEY, SHOW MY LATEST TRANSACTION",recent_transaction
+"hello, can you hack the bank now",fallback
+"hello, transaction limits on my account ?",account_information
+"monthly instalment for a loan of ₹3,00,000 for 3 years at 9 percent now",emi_calculation
+"HI, WHAT ACCOUNTS DO I HAVE WITH YOU NOW",account_information
+please how do i apply for a auto loan,loan_information
+"hi, minimum balance in current account",minimum_balance
+what types of loans do you have thanks,loan_information
+could you tell me show my atm withdrawals today,transaction_history
+"hello, how much will i pay every month for 25 lakh over 5 yrs today",emi_calculation
+"i want to know, and my last transaction",recent_transaction
+could you tell me zero balance account thanks,minimum_balance
+"hi, what is the gst on charges ?",account_charges
+"HELLO, WHAT TYPE OF ACCOUNT DO I HAVE NOW",account_information
+what is the daily transfer limit now,account_information
+"hi, zero balance account thanks",minimum_balance
+"i want to know, account summary please",account_information
+which is better education loan or personal loan,loan_comparison
+what types of loans do you have ?,loan_information
+yes ?,fallback
+which loans do you offer today,loan_information
+"hello, how much do i have in the bank today",balance_inquiry
+Could You Tell Me Make It 2 Years,fallback
+quick question - what was the last debit thanks,recent_transaction
+"i want to know, min balance",minimum_balance
+what will be the emi for a car loan of 2 lakh today,emi_calculation
+could you tell me last transaction details,recent_transaction
+"i want to know, banking fees",account_charges
+"i want to know, how is a home loan different from a personal loan today",loan_comparison
+"i want to know, what is the gst on charges please",account_charges
+"hi, loan products list ?",loan_information
+cheers,goodbye
+please balance enquiry,balance_inquiry
+Could You Tell Me Balance Please Today,balance_inquiry
+please interest rate now,interest_rate
+show my recent activity thanks,transaction_history
+i want to borrow 75k thanks,loan_eligibility
+how much do i have in the bank,balance_inquiry
+what is the difference between a education loan and a education loan today,loan_comparison
+Can You Tell Me Car Loan Rates,interest_rate
+tell me about my last payment,recent_transaction
+"hello, can i get a personal loan",loan_eligibility
+can you tell me personal loan vs education loan,loan_comparison
+"i want to know, tell me about my last payment",recent_transaction
+when did i open my account today,account_information
+and 8.5% now,fallback
+see you later!,goodbye
+"hey, what is the minimum average balance for current account today",minimum_balance
+Which Is Better Personal Loan Or Personal Loan Thanks,loan_comparison
+"i want to know, home loan rates thanks",interest_rate
+monthly instalment for a loan of 7.5 lakh for 60 months at 12% now,emi_calculation
+"hey, what is the minimum balance requirement",minimum_balance
+"i want to know, show my recent transactions thanks",transaction_history
+thank you so much :),goodbye
+"hello, how much will i pay every month for four lakh over 10 years",emi_calculation
+"i want to know, what is gst charge in my statement today",transaction_explanation
+i am looking for a housing loan ?,loan_eligibility
+"i want to know, do i need to maintain a minimum balance",minimum_balance
+quick question - compare loans,loan_comparison
+please i want to see my transaction history thanks,transaction_history
+can you tell me emi calculator thanks,emi_calculation
+"HELLO, WHAT IS MY ACCOUNT STATUS",account_information
+"hey, show my upi transactions now",transaction_history
+show my transactions for yesterday,transaction_history
+"hi, i see a deduction i don't recognise now",transaction_explanation
+what charges have been applied recently please,account_charges
+could you tell me student loan rates thanks,interest_rate
+"hi, latest interest rates",interest_rate
+"hey, and for 10 years ?",fallback
+"hi, interest rate now",interest_rate
+can you tell me when did i last make a payment thanks,recent_transaction
+"hello, how much do you charge for imps",account_charges
+"hello, what is the penalty for low balance today",minimum_balance
+"Hi, Account Maintenance Charges Now",account_charges
+namaste!,greeting
+"i want to know, account maintenance charges ?",account_charges
+"Hello, Do You Offer Auto Loan",loan_information
+are you a human now,fallback
+"hi, compare personal loan and home loan ?",loan_comparison
+what was my last credit,recent_transaction
+account balance,balance_inquiry
+how can you help me!,help
+"I WANT TO KNOW, HOW MUCH MONEY IS LEFT IN MY SAVINGS ACCOUNT",balance_inquiry
+"HI, WHAT IS THE RD INTEREST RATE NOW",interest_rate
+can you tell me and my last transaction ?,recent_transaction
+prepayment charges on auto loan,loan_information
+compare loans,loan_comparison
+"I Want To Know, What Is Bitcoin Price Today",fallback
+"hi, what is this deduction",transaction_explanation
+what happens if i don't maintain minimum balance,minimum_balance
+home loan versus car loan ?,loan_comparison
+"hey, which is better education loan or personal loan",loan_comparison
+HOW MUCH BALANCE SHOULD I KEEP IN MY SALARY ACCOUNT ?,minimum_balance
+compare car loan and education loan interest rates,loan_comparison
+compare auto loan with education loan please,loan_comparison
+"hello, fixed deposit interest rates today",interest_rate
+Find Emi For 3 Lakh Loan Please,emi_calculation
+quick question - tell me about my salary account please,account_information
+what is the atm withdrawal limit ?,account_information
+please what is the age limit for personal loan,loan_information
+"hey, how much emi will i pay for 75k for 36 months please",emi_calculation
+what is the last transaction on my account,recent_transaction
+"hello, calculate my emi",emi_calculation
+can i afford this loan,loan_eligibility
+what is my balance today,balance_inquiry
+Please Do You Offer Education Loan,loan_information
+how does this work :),help
+quick question - what rate will i get on a student loan please,interest_rate
+and for 5 years now,fallback
+that will be all :),goodbye
+min balance,minimum_balance
+quick question - work out the monthly payment on a housing loan of 2 lakh ?,emi_calculation
+please what are the current home loan rates,interest_rate
+"Hello, Tell Me The Roi On Personal Loan ?",interest_rate
+could you tell me when was my last transaction,recent_transaction
+what will be the emi for a housing loan of four lakh,emi_calculation
+i am looking for a education loan,loan_eligibility
+how much is in my account today,balance_inquiry
+what is the minimum average balance for current account thanks,minimum_balance
+"I Want To Know, How Much Was My Last Transaction",recent_transaction
+ok thanks bye,goodbye
+what is a student loan today,loan_information
+"hi, what is the gst on charges thanks",account_charges
+"hello, monthly payment for four lakh at 10% ?",emi_calculation
+interest rates please,interest_rate
+how much is in my account,balance_inquiry
+what are my transactions in the last 3 months please,transaction_history
+can you tell me transaction history thanks,transaction_history
+please how much interest will i pay on a auto loan,interest_rate
+what services do you provide,help
+Quick Question - Minimum Balance In Current Account,minimum_balance
+why was 7.5 lakh deducted ?,transaction_explanation
+What Loans Are Available,loan_information
+play some music thanks,fallback
+"hello, i need a housing loan of four lakh ?",loan_eligibility
+any hidden charges on my account thanks,account_charges
+"hi, what is this deduction today",transaction_explanation
+"hey, minimum balance for savings account now",minimum_balance
+Quick Question - Order Me A Pizza Please,fallback
+what would the emi be for 3 lakh now,emi_calculation
+"hi, what is the gst on charges",account_charges
+"hey, last transaction details today",recent_transaction
+"HI, WHAT CHARGES HAVE BEEN APPLIED RECENTLY NOW",account_charges
+could you tell me tell me about the home loan now,loan_information
+WHAT IS THE AGE LIMIT FOR HOME LOAN TODAY,loan_information
+ok,fallback
+ok thanks!,goodbye
+"hello, what is a student loan",loan_information
+please unknown debit in my account,transaction_explanation
+"HELLO, CALCULATE MY EMI ?",emi_calculation
+"i want to know, what are the features of my account ?",account_information
+"HI, WHAT IS THIS DEDUCTION",transaction_explanation
+"I WANT TO KNOW, HOW DO I COOK BIRYANI TODAY",fallback
+"hello, compare student loan with car loan today",loan_comparison
+"i want to know, give me my account information ?",account_information
+how many accounts do i have thanks,account_information
+compare personal loan and car loan interest rates,loan_comparison
+PLEASE MY LAST TRANSACTION PLEASE ?,recent_transaction
+"hello, display my last 10 transactions today",transaction_history
+show recent payments from my account ?,transaction_history
+can you tell me list of all fees please,account_charges
+my balance ?,balance_inquiry
+show transactions from last week ?,transaction_history
+can you tell me compare auto loan with education loan now,loan_comparison
+could you tell me min balance,minimum_balance
+can you tell me list the last 20 transactions on my account,transaction_history
+Quick Question - What Is My Most Recent Transaction,recent_transaction
+what are your capabilities,help
+calculate the emi today,emi_calculation
+what charges have been applied recently,account_charges
+"i want to know, tell me about my current account now",account_information
+is there a minimum balance requirement,minimum_balance
+"hello, explain the deduction",transaction_explanation
+what is the fd rate for 1 year please,interest_rate
+quick question - tell me about my last payment,recent_transaction
+what about 2 lakh,fallback
+ok thanks bye!,goodbye
+hello assistant,greeting
+how much emi will i pay for 25 lakh for 2 years,emi_calculation
+can you tell me banking fees,account_charges
+quick question - service charges on my account ?,account_charges
+BLAH BLAH ?,fallback
+please what is the balance in my account,balance_inquiry
+what rate will i get on a housing loan,interest_rate
+please which loans do you offer,loan_information
+"hello, fixed deposit interest rates thanks",interest_rate
+help me :),help
+please what is the rd interest rate,interest_rate
+quick question - why was my balance reduced ?,transaction_explanation
+"hey, what was the last debit",recent_transaction
+"i want to know, can i afford this loan today",loan_eligibility
+"hello, fixed deposit interest rates ?",interest_rate
+"hi, what happens if i don't maintain minimum balance",minimum_balance
+"Hey, Current Balance Of My Account Thanks",balance_inquiry
+features of student loan,loan_information
+What Is A Home Loan,loan_information
+"can i get a housing loan of ₹3,00,000 for 3 years",loan_eligibility
+please what is the maximum loan i can get,loan_eligibility
+"hi, why is there a debit of 5 lakh",transaction_explanation
+could you tell me show my atm withdrawals,transaction_history
+"what would the emi be for ₹3,00,000 today",emi_calculation
+quick question - personal loan interest rate,interest_rate
+please what was the last amount credited today,recent_transaction
+please get my past 3 transactions,transaction_history
+"hi, how is a home loan different from a personal loan ?",loan_comparison
+What Are The Bank Charges Now,account_charges
+can you tell me and my last transaction now,recent_transaction
+"hello, when did i open my account now",account_information
+quick question - what is this deduction now,transaction_explanation
+are you a human,fallback
+WHAT IS THE FD RATE FOR 1 YEAR,interest_rate
+quick question - show me the fee schedule ?,account_charges
+quick question - what is the non maintenance charge now,minimum_balance
+"hi, tell me the roi on housing loan thanks",interest_rate
+"i want to know, how much interest will i pay on a car loan now",interest_rate
+quick question - minimum balance in current account,minimum_balance
+quick question - what are the atm charges,account_charges
+could you tell me book a flight to delhi,fallback
+last upi payment,recent_transaction
+current rates on savings account,interest_rate
+"hi, debit card annual fee",account_charges
+what was my last transaction,recent_transaction
+WHY IS THERE A DEBIT OF 5 LAKH THANKS,transaction_explanation
+mini statement ?,transaction_history
+please what is the minimum balance requirement please,minimum_balance
+"hey, student loan interest rate",interest_rate
+what is the difference between a personal loan and a car loan please,loan_comparison
+"hi, mini statement please",transaction_history
+quick question - check if i can get 75k loan thanks,loan_eligibility
+and 10% today,fallback
+"hi, show my recent activity",transaction_history
+"hi, tell me about your loan products",loan_information
+"i want to know, can you check my balance",balance_inquiry
+"hey, last upi payment please",recent_transaction
+compare the loan products,loan_comparison
+"I WANT TO KNOW, CALCULATE EMI FOR 50000 FOR 10 YEARS AT 8.5%",emi_calculation
+WHAT IS THE FEE FOR NEFT ?,account_charges
+please what charges have been applied recently,account_charges
+can you tell me find emi for 10 lakh loan,emi_calculation
+"hey, tell me about your loan products ?",loan_information
+quick question - open the pod bay doors,fallback
+PLEASE TELL ME ABOUT MY LAST PAYMENT,recent_transaction
+can you tell me sms alert charges,account_charges
+"hi, what are the charges for my account today",account_charges
+please i want to borrow 75k,loan_eligibility
+quick question - why is there a debit of four lakh,transaction_explanation
+what are the account charges now,account_charges
+"hello, what loans are available",loan_information
+"hey, can i afford this loan today",loan_eligibility
+hey!,greeting
+please education loan vs personal loan thanks,loan_comparison
+WHAT ARE THE FEATURES OF MY ACCOUNT PLEASE,account_information
+"i want to know, what was the most recent payment from my account ?",recent_transaction
+difference between auto loan and education loan,loan_comparison
+show my last 20 transactions,transaction_history
+"hello, can you check my balance",balance_inquiry
+PLEASE WHAT RATE DO YOU CHARGE ON HOME LOAN TODAY,interest_rate
+can you tell me minimum balance penalty now,minimum_balance
+what is txn TXN10000456 for,transaction_explanation
+"hello, what rate do you charge on education loan",interest_rate
+quick question - monthly instalment for a loan of 2 lakh for 2 years at 12%,emi_calculation
+quick question - do i need to maintain a minimum balance,minimum_balance
+"hi, what is the current interest rate",interest_rate
+"hey, my account number",account_information
+how does this work,help
+"hi, tell me my previous transaction today",recent_transaction
+CAN I AFFORD A LOAN OF 3 LAKH,loan_eligibility
+quick question - explain this transaction ?,transaction_explanation
+WHAT IS THE AGE LIMIT FOR AUTO LOAN,loan_information
+"hi, open the pod bay doors thanks",fallback
+"hey, show my account details now",account_information
+can i get a personal loan of 75k for 20 years today,loan_eligibility
+"Hello, What Are Your Loan Rates Please",interest_rate
+can i get a home loan of 7.5 lakh for 60 months please,loan_eligibility
+"i want to know, why was my balance reduced",transaction_explanation
+could you tell me account type and status thanks,account_information
+please emi on 50000 at 7.9% for 15 years,emi_calculation
+"I WANT TO KNOW, WHAT IS THE AGE LIMIT FOR CAR LOAN THANKS",loan_information
+"hi, show my profile today",account_information
+account type and status ?,account_information
+"hey, any hidden charges on my account",account_charges
+good afternoon :),greeting
+can you tell me tell me the roi on home loan today,interest_rate
+"i want to know, what is the minimum balance",minimum_balance
+"hello, mini statement",transaction_history
+maybe now,fallback
+"HELLO, WHAT IS THIS DEDUCTION TODAY",transaction_explanation
+"hi, how much interest will i pay on a car loan please",interest_rate
+can you tell me show my debit transactions thanks,transaction_history
+"hi, what are the bank charges please",account_charges
+can you tell me calculate emi for four lakh for 5 yrs at 7.9%,emi_calculation
+please will i get a personal loan thanks,loan_eligibility
+could you tell me show my transactions in august now,transaction_history
+hello!,greeting
+how much will i pay every month for four lakh over 5 years,emi_calculation
+"i want to know, which is better home loan or home loan please",loan_comparison
+whats my available balance now,balance_inquiry
+fixed deposit interest rates today,interest_rate
+"Hello, Details Of Education Loan ?",loan_information
+help :),help
+zzzz thanks,fallback
+Please Find Emi For 5 Lakh Loan,emi_calculation
+can you tell me compute emi thanks,emi_calculation
+"hello, what is the emi for a personal loan of 50000 for 60 months please",emi_calculation
+"hey, i see a deduction i don't recognise",transaction_explanation
+which branch is my account in thanks,account_information
+sms alert charges today,account_charges
+please what would the emi be for four lakh today,emi_calculation
+"i want to know, list my transactions please",transaction_history
+"i want to know, last debit from my account thanks",recent_transaction
+"hey, why was a fee taken from my account now",transaction_explanation
+difference between education loan and car loan please,loan_comparison
+How Many Accounts Do I Have Now,account_information
+why did i get charged today,transaction_explanation
+can you tell me do you like pizza,fallback
+please difference between student loan and personal loan now,loan_comparison
+can you tell me calculate my emi today,emi_calculation
+"need a loan of ₹3,00,000 please",loan_eligibility
+could you tell me show my last 5 transactions thanks,transaction_history
+"hey, when did i last make a payment today",recent_transaction
+any hidden charges on my account today,account_charges
+Prepayment Charges On Car Loan Please,loan_information
+"hello, show my latest transaction now",recent_transaction
+i earn 40000 per month can i get a personal loan today,loan_eligibility
+"hi, do you offer student loan",loan_information
+hello :),greeting
+what is the difference between a student loan and a home loan,loan_comparison
+how much was my last transaction please,recent_transaction
+quick question - features of student loan please,loan_information
+what is my most recent transaction thanks,recent_transaction
+tell me about your loan products thanks,loan_information
+"hello, how much interest will i pay on a home loan",interest_rate
+quick question - what would the emi be for 7.5 lakh today,emi_calculation
+"hello, what is the available balance in my account",balance_inquiry
+MY SALARY IS 40000 AM I ELIGIBLE FOR A AUTO LOAN OF 1 CRORE,loan_eligibility
+my last transaction please today,recent_transaction
+"i want to know, what fees do you charge on my account",account_charges
+"hi, what is the atm withdrawal limit",account_information
+account summary thanks,account_information
+quick question - why was my balance reduced,transaction_explanation
+"hey, minimum balance in current account today",minimum_balance
+list your features :),help
+WHAT WAS THE MOST RECENT PAYMENT FROM MY ACCOUNT ?,recent_transaction
+"i want to know, my account number thanks",account_information
+no,fallback
+Quick Question - What Is My Daily Upi Limit,account_information
+details of my savings account today,account_information
+can you tell me tell me a joke ?,fallback
+personal loan vs education loan ?,loan_comparison
+i need help,help
+quick question - what are the account charges,account_charges
+what rate do you charge on personal loan today,interest_rate
+"hey, sms alert charges",account_charges
+cheers!,goodbye
+how much do i have in the bank today,balance_inquiry
+can you tell me average monthly balance required,minimum_balance
+"hey, what is my account status",account_information
+"hello, what is the rd interest rate now",interest_rate
+thanks,goodbye
+could you tell me banking fees thanks,account_charges
+balance please,balance_inquiry
+Yes Now,fallback
+"i want to know, emi for 10 lakh over 2 years thanks",emi_calculation
+order me a pizza thanks,fallback
+can you tell me when was my last transaction,recent_transaction
+can you tell me fixed deposit interest rates thanks,interest_rate
+quick question - what rate do you charge on student loan today,interest_rate
+quick question - how much is the cheque book fee now,account_charges
+can you tell me min balance,minimum_balance
+please what are the charges for my account ?,account_charges
+which branch is my account in today,account_information
+what is the balance in my account thanks,balance_inquiry
+"hello, show recent payments from my account now",transaction_history
+quick question - what is my ifsc code,account_information
+"hey, what happens if i don't maintain minimum balance",minimum_balance
+"hello, calculate emi for 2 lakh for 5 yrs at 9 percent",emi_calculation
+"i want to know, what will be the emi for a education loan of 2 lakh",emi_calculation
+tell me the roi on education loan,interest_rate
+"hello, what is a student loan now",loan_information
+could you tell me show me all loans,loan_information
+"i want to know, tell me about your loan products",loan_information
+"hi, i want to take a home loan",loan_eligibility
+please how much loan can i get today,loan_eligibility
+7 years today,fallback
+and my last transaction now,recent_transaction
+7 years,fallback
+"hey, how much funds do i have today",balance_inquiry
+"i want to know, what is my most recent transaction thanks",recent_transaction
+what documents are required for a auto loan please,loan_information
+which is better student loan or personal loan,loan_comparison
+could you tell me when did i last make a payment,recent_transaction
+ok thanks,fallback
+hii!,greeting
+charges on salary account,account_charges
+"hi, tell me about the personal loan",loan_information
+SHOW MY ACCOUNT DETAILS,account_information
+what is the difference between a student loan and a car loan,loan_comparison
+What Is My Account Balance,balance_inquiry
+"hello, what are the account charges now",account_charges
+"hello, show me the balance of my salary account",balance_inquiry
+quick question - show my recent activity today,transaction_history
+please auto loan or personal loan which should i choose please,loan_comparison
+current balance of my account please,balance_inquiry
+"I WANT TO KNOW, INTEREST RATE",interest_rate
+QUICK QUESTION - WHAT ARE THE CURRENT HOME LOAN RATES ?,interest_rate
+"i want to know, what are the features of my account",account_information
+"i want to know, what happens if i don't maintain minimum balance",minimum_balance
+good afternoon!,greeting
+how much will it cost to get a duplicate statement,account_charges
+loan options,loan_information
+what can i ask you!,help
+please how do i apply for a auto loan ?,loan_information
+AND MY LAST TRANSACTION,recent_transaction
+hi!,greeting
+what is the balance in my account,balance_inquiry
+see you later :),goodbye
+"hey, show my transactions for this week now",transaction_history
+"hello, what type of account do i have ?",account_information
+How Much Will It Cost To Get A Duplicate Statement Today,account_charges
+list my transactions thanks,transaction_history
+"hi, list the last 20 transactions on my account ?",transaction_history
+i need help :),help
+play some music,fallback
+what are the current home loan rates now,interest_rate
+why was my balance reduced,transaction_explanation
+"I Want To Know, What Is The Meaning Of Life Now",fallback
+what fees do you charge on my account today,account_charges
+15 years thanks,fallback
+WHAT IS MY TOTAL BALANCE,balance_inquiry
+service charges on my account,account_charges
+how about 2 years thanks,fallback
+what benefits does my account have,account_information
+what is the current interest rate today,interest_rate
+"hey, calculate the emi",emi_calculation
+"hi, home loan versus car loan thanks",loan_comparison
+explain this transaction,transaction_explanation
+quick question - what are your loan rates,interest_rate
+"hey, current rates on savings account",interest_rate
+"hey, difference between auto loan and education loan",loan_comparison
+WHAT ARE THE CURRENT HOME LOAN RATES,interest_rate
+please what is this sms alert charge today,transaction_explanation
+"i want to know, what is the processing fee for a auto loan ?",loan_information
+"HELLO, WHAT WILL BE THE EMI FOR A AUTO LOAN OF 50000",emi_calculation
+"hey, what is the minimum balance requirement ?",minimum_balance
+can you tell me details of my salary account,account_information
+compare personal loan and home loan now,loan_comparison
+Can You Tell Me Housing Loan Or Personal Loan Which Should I Choose,loan_comparison
+please compare home loan with home loan thanks,loan_comparison
+what about 7 years today,fallback
+quick question - average monthly balance required now,minimum_balance
+"hey, what is the capital of france",fallback
+quick question - how much was my last transaction ?,recent_transaction
+what is the processing fee for a personal loan,loan_information
+Quick Question - What Is The Emi For A Housing Loan Of Four Lakh For 36 Months,emi_calculation
+"hello, why was this amount debited now",transaction_explanation
+SHOW MY TRANSACTIONS FOR THIS MONTH PLEASE,transaction_history
+"i want to know, calculate my emi",emi_calculation
+hi there,greeting
+why was a fee taken from my account ?,transaction_explanation
+which is better education loan or car loan thanks,loan_comparison
+"i want to know, what is this sms alert charge today",transaction_explanation
+PLEASE WHAT WAS MY LAST TRANSACTION,recent_transaction
+please how much interest will i pay on a housing loan ?,interest_rate
+hey there,greeting
+could you tell me list of all fees,account_charges
+quick question - how is a home loan different from a personal loan,loan_comparison
+"Hello, What Is Txn Txn10000221 For Thanks",transaction_explanation
+what is the age limit for housing loan ?,loan_information
+"EMI ON RS 8,00,000 AT 7.9% FOR 3 YEARS ?",emi_calculation
+could you tell me interest rates please today,interest_rate
+"hey, what would the emi be for four lakh please",emi_calculation
+can you tell me last debit from my account,recent_transaction
+"hello, show all my debits thanks",transaction_history
+"hi, compare the loan products",loan_comparison
+quick question - show my last 15 transactions thanks,transaction_history
+"hello, what was the last amount credited",recent_transaction
+"hi, how much interest will i pay on a auto loan",interest_rate
+please compare loans,loan_comparison
+can you tell me zero balance account now,minimum_balance
+bye,goodbye
+is there a minimum balance requirement thanks,minimum_balance
+what rate do you charge on auto loan,interest_rate
+"i want to know, show all my debits ?",transaction_history
+who created you,fallback
+"hi, how much was my last transaction",recent_transaction
+"hi, compare car loan and home loan interest rates please",loan_comparison
+quick question - and my last transaction,recent_transaction
+i see a deduction i dont recognise,transaction_explanation
+what is my most recent transaction now,recent_transaction
+hii :),greeting
+help!,help
+i need money ?,loan_eligibility
+compare loans now,loan_comparison
+"I WANT TO KNOW, WHAT ACCOUNTS DO I HAVE WITH YOU THANKS",account_information
+Account Maintenance Charges,account_charges
+MINI STATEMENT NOW,transaction_history
+Can You Tell Me Sms Alert Charges ?,account_charges
+"i want to know, i need 1 crore",loan_eligibility
+can you check my balance today,balance_inquiry
+could you tell me tell me my previous transaction today,recent_transaction
+tell me about my savings account,account_information
+how much minimum balance should i maintain,minimum_balance
+zzzz,fallback
+what is my total balance please,balance_inquiry
+"hello, loan options",loan_information
+"hello, show my atm withdrawals",transaction_history
+compare the loan products please,loan_comparison
+please i need money thanks,loan_eligibility
+HOW MUCH WILL IT COST TO GET A DUPLICATE STATEMENT,account_charges
+please i want to borrow 7.5 lakh please,loan_eligibility
+quick question - what is this deduction,transaction_explanation
+could you tell me i want to take a auto loan,loan_eligibility
+"hi, i earn 60k per month can i get a student loan thanks",loan_eligibility
+can you tell me my account number,account_information
+"hello, i want to know my balance ?",balance_inquiry
+"Hey, What Is Txn Txn10001002 For Today",transaction_explanation
+"hey, show me the balance of my savings account please",balance_inquiry
+could you tell me compare personal loan and home loan thanks,loan_comparison
+"i want to know, what is this sms alert charge",transaction_explanation
+quick question - zero balance account,minimum_balance
+can you tell me compare loans,loan_comparison
+what are the bank charges now,account_charges
+"hey, last upi payment",recent_transaction
+"hello, difference between student loan and personal loan thanks",loan_comparison
+could you tell me i want to see my transaction history please,transaction_history
+"hi, account balance ?",balance_inquiry
+"hey, show my balance",balance_inquiry
+please any hidden charges on my account today,account_charges
+"hi, tell me the emi for 36 months",emi_calculation
+Can You Tell Me View My Statement For Last Month Now,transaction_history
+"hi, why is there a debit of 50000",transaction_explanation
+please monthly instalment for a loan of 5 lakh for 5 years at 10%,emi_calculation
+WHAT TYPE OF ACCOUNT DO I HAVE,account_information
+What Is The Tenure Of A Housing Loan Today,loan_information
+quick question - i want to know my balance please,balance_inquiry
+HOW ABOUT 15 YEARS THANKS,fallback
+Show Me The Balance Of My Current Account,balance_inquiry
+quick question - what's my available balance now,balance_inquiry
+quick question - what is my balance please,balance_inquiry
+what type of account do i have now,account_information
+why was money deducted from my account now,transaction_explanation
+why did i get charged now,transaction_explanation
+"i want to know, available balance please",balance_inquiry
+"I Want To Know, What Type Of Account Do I Have ?",account_information
+what are the bank charges,account_charges
+"hey, what is my daily upi limit now",account_information
+"HI, MINI STATEMENT",transaction_history
+"please why is there a debit of rs 8,00,000",transaction_explanation
+"i want to know, how much interest does my savings account earn please",interest_rate
+"hello, check my loan eligibility thanks",loan_eligibility
+"hey, tell me the emi for 60 months ?",emi_calculation
+prepayment charges on personal loan today,loan_information
+how much interest will i pay on a student loan,interest_rate
+please what was the most recent payment from my account thanks,recent_transaction
+What Is The Minimum Balance Requirement Please,minimum_balance
+"HI, IS A LOAN OF FOUR LAKH AFFORDABLE FOR ME",loan_eligibility
+PLEASE WHY WAS MY BALANCE REDUCED,transaction_explanation
+quick question - emi calculator,emi_calculation
+i want to take a home loan now,loan_eligibility
+"how much will i pay every month for ₹3,00,000 over 5 yrs please",emi_calculation
+How Much Money Is Left In My Current Account,balance_inquiry
+which branch is my account in please,account_information
+Quick Question - Eligibility For Home Loan Now,loan_eligibility
+Can You Tell Me Show Me The Balance Of My Salary Account ?,balance_inquiry
+"hey, monthly instalment for a loan of 3 lakh for 5 yrs at 9 percent",emi_calculation
+what is my account status,account_information
+how much emi will i pay for four lakh for 2 years thanks,emi_calculation
+quick question - features of personal loan thanks,loan_information
+What Is My Most Recent Transaction,recent_transaction
+"hi, car loan or car loan which should i choose",loan_comparison
+quick question - what is the current interest rate now,interest_rate
+what is the gst on charges now,account_charges
+what was the last debit please,recent_transaction
+work out the monthly payment on a personal loan of 50000 today,emi_calculation
+"i want to know, why was a fee taken from my account today",transaction_explanation
+"hey, and my last transaction today",recent_transaction
+"hey, last transaction details thanks",recent_transaction
+which is better car loan or education loan thanks,loan_comparison
+last upi payment today,recent_transaction
+please work out the monthly payment on a personal loan of 10 lakh please,emi_calculation
+"i want to know, tell me my previous transaction",recent_transaction
+hi,greeting
+what is the daily transfer limit please,account_information
+could you tell me list my transactions,transaction_history
+what services do you provide :),help
+options :),help
+account type and status thanks,account_information
+HOW MUCH PERSONAL LOAN AM I ELIGIBLE FOR,loan_eligibility
+check if i can get 5 lakh loan thanks,loan_eligibility
+"hey, remaining balance in my account today",balance_inquiry
+what are the charges for my account ?,account_charges
+View My Statement For Last 3 Months ?,transaction_history
+how many accounts do i have please,account_information
+"hello, service charges on my account",account_charges
+please do you offer student loan ?,loan_information
+"hey, show recent payments from my account",transaction_history
+"hello, minimum balance for savings account ?",minimum_balance
+quick question - what is the non maintenance charge,minimum_balance
+"i want to know, what was the last debit",recent_transaction
+no more questions :),goodbye
+TRANSACTION HISTORY ?,transaction_history
+what is a education loan,loan_information
+"what would the emi be for rs 8,00,000",emi_calculation
+what is the minimum balance thanks,minimum_balance
+can you tell me min balance now,minimum_balance
+please make it 5 years,fallback
+can you tell me i need a loan of 25 lakh for 20 years,loan_eligibility
+account maintenance charges,account_charges
+could you tell me show me the fee schedule today,account_charges
+please loan products list,loan_information
+what's the weather today today,fallback
+tell me about my salary account,account_information
+show my upi transactions,transaction_history
+"hi, how much is the cheque book fee now",account_charges
+quick question - what was the last debit,recent_transaction
+"i want to know, details of my salary account",account_information
+"HEY, SHOW ME THE FEE SCHEDULE",account_charges
+"Hey, Emi On 2 Lakh At 10% For 3 Years Thanks",emi_calculation
+quick question - find emi for 7.5 lakh loan now,emi_calculation
+"hey, home loan versus car loan",loan_comparison
+CAN YOU TELL ME COMPARE HOUSING LOAN WITH HOME LOAN,loan_comparison
+quick question - recommend a good stock to buy,fallback
+can you tell me transactions between 2026-08-01 and 2026-08-31 ?,transaction_history
+"hi, list my transactions",transaction_history
+SHOW MY LATEST TRANSACTION,recent_transaction
+when was my last transaction thanks,recent_transaction
+"Hi, What Charges Have Been Applied Recently Please",account_charges
+Is A Loan Of 25 Lakh Affordable For Me,loan_eligibility
+emi for 1 crore over 60 months thanks,emi_calculation
+can you tell me can you check my balance ?,balance_inquiry
+Education Loan Vs Car Loan Today,loan_comparison
+play some music ?,fallback
+can you tell me who is this payment to please,transaction_explanation
+"i want to know, latest interest rates ?",interest_rate
+what was the last debit,recent_transaction
+can i afford this loan ?,loan_eligibility
+please zero balance account thanks,minimum_balance
+60 months now,fallback
+can i afford a loan of 25 lakh today,loan_eligibility
+LIST THE LAST 2 TRANSACTIONS ON MY ACCOUNT,transaction_history
+that will be all!,goodbye
+what would the emi be for 10 lakh ?,emi_calculation
+i want to see my transaction history,transaction_history
+"hi, show my atm withdrawals",transaction_history
+can you tell me show all my debits thanks,transaction_history
+transaction limits on my account today,account_information
+cheers :),goodbye
+what is the age limit for personal loan,loan_information
+why was money deducted from my account today,transaction_explanation
+can you tell me show my last 5 transactions,transaction_history
+"hello, student loan interest rate now",interest_rate
+what is the current interest rate,interest_rate
+QUICK QUESTION - AUTO LOAN OR EDUCATION LOAN WHICH SHOULD I CHOOSE TODAY,loan_comparison
+what can you do!,help
+"Hey, What Is The Interest Rate For A Education Loan Today",interest_rate
+"i want to know, i would like to apply for a education loan thanks",loan_eligibility
+WHO IS THIS PAYMENT TO TODAY,transaction_explanation
+"hey, emi for rs 8,00,000 over 3 years now",emi_calculation
+"Hello, What Benefits Does My Account Have Today",account_information
+"what will be the emi for a auto loan of rs 8,00,000",emi_calculation
+am i eligible for four lakh personal loan for 20 years today,loan_eligibility
+could you tell me give me my account statement,transaction_history
+can you tell me account maintenance charges now,account_charges
+what is the difference between a student loan and a education loan,loan_comparison
+"i want to know, what are the atm charges thanks",account_charges
+and 9 percent now,fallback
+"hi, what is the rd interest rate",interest_rate
+"hello, what is txn TXN10000221 for today",transaction_explanation
+what was the last amount credited today,recent_transaction
+could you tell me current rates on savings account,interest_rate
+what accounts do i have with you,account_information
+"hi, show me all loans",loan_information
+Compare Loans Now,loan_comparison
+check if i can get 1 crore loan,loan_eligibility
+please am i eligible for a home loan today,loan_eligibility
+"hello, how much do i have in the bank thanks",balance_inquiry
+please what is the current interest rate,interest_rate
+"hello, need a loan of 3 lakh",loan_eligibility
+quick question - monthly instalment for a loan of 75k for 5 years at 8.5% today,emi_calculation
+please any hidden charges on my account,account_charges
+what fees do you charge on my account please,account_charges
+"hello, last transaction details",recent_transaction
+thank you!,goodbye
+"HELLO, TRANSACTION LIMITS ON MY ACCOUNT",account_information
+good morning :),greeting
+interest rates please please,interest_rate
+what is the age limit for education loan,loan_information
+can you tell me current rates on savings account ?,interest_rate
+quick question - explain transaction txn10001002,transaction_explanation
+How Much Is The Cheque Book Fee,account_charges
+quick question - what is the minimum balance please,minimum_balance
+quick question - who won the cricket match now,fallback
+quick question - what is this deduction today,transaction_explanation
+please can i get a student loan,loan_eligibility
+show my upi transactions ?,transaction_history
+QUICK QUESTION - TRANSLATE HELLO INTO FRENCH,fallback
+"i want to know, car loan vs home loan today",loan_comparison
+"HI, HOW MUCH INTEREST DOES MY SAVINGS ACCOUNT EARN",interest_rate
+recommend a good stock to buy,fallback
+what is the interest rate for a auto loan now,interest_rate
+what is my most recent transaction today,recent_transaction
+please last upi payment,recent_transaction
+show my neft transactions,transaction_history
+quick question - account summary,account_information
+quick question - eligibility for auto loan,loan_eligibility
+how much balance should i keep in my salary account thanks,minimum_balance
+remaining balance in my account,balance_inquiry
+"hey, calculate the emi today",emi_calculation
+how much loan can i get now,loan_eligibility
+"HI, SHOW ME THE BALANCE OF MY SAVINGS ACCOUNT",balance_inquiry
+quick question - tell me about your loan products thanks,loan_information
+how tall is mount everest,fallback
+"hello, unknown debit in my account now",transaction_explanation
+show me what you can do!,help
+i need 7.5 lakh ?,loan_eligibility
+"hey, i want to know my balance ?",balance_inquiry
+"I Want To Know, Details Of My Current Account ?",account_information
+Tell Me About My Savings Account,account_information
+"I WANT TO KNOW, WHAT IS THE AVAILABLE BALANCE IN MY ACCOUNT TODAY",balance_inquiry
+"hey, home loan versus car loan today",loan_comparison
+"hi, remaining balance in my account now",balance_inquiry
+last transaction details,recent_transaction
+why was money deducted from my account,transaction_explanation
+MIN BALANCE,minimum_balance
+"hello, what is my total balance thanks",balance_inquiry
+do you offer personal loan,loan_information
+"HELLO, WHAT IS THE DIFFERENCE BETWEEN A HOME LOAN AND A HOME LOAN",loan_comparison
+"hello, do i qualify for a housing loan",loan_eligibility
+"hi, how much will i pay every month for 5 lakh over 36 months now",emi_calculation
+personal loan vs education loan,loan_comparison
+what is this charge on my statement,transaction_explanation
+"i want to know, i would like to apply for a education loan",loan_eligibility
+"i want to know, what are my transactions in the this week now",transaction_history
+"i want to know, last transaction details today",recent_transaction
+quick question - what is the difference between a home loan and a home loan thanks,loan_comparison
+WHAT IS THE RD INTEREST RATE,interest_rate
+Please Interest Rates Please,interest_rate
+please transaction history,transaction_history
+ok 75k please,fallback
+Work Out The Monthly Payment On A Student Loan Of 7.5 Lakh Today,emi_calculation
+"i want to know, list of all fees now",account_charges
+QUICK QUESTION - WHAT WOULD THE EMI BE FOR 5 LAKH,emi_calculation
+"i want to know, can i get a car loan today",loan_eligibility
+please what is the difference between a car loan and a personal loan ?,loan_comparison
+what is the difference between a auto loan and a personal loan today,loan_comparison
+what is my total balance,balance_inquiry
+PLEASE RATE OF INTEREST FOR AUTO LOAN,interest_rate
+"hello, how much money is left in my current account",balance_inquiry
+Calculate The Emi Today,emi_calculation
+List Of All Fees,account_charges
+which is better car loan or car loan thanks,loan_comparison
+account summary,account_information
+please what is the processing fee for a student loan please,loan_information
+could you tell me home loan vs car loan,loan_comparison
+"hi, current rates on savings account ?",interest_rate
+what about that,fallback
+can you tell me i want to see my transaction history,transaction_history
+could you tell me average monthly balance required now,minimum_balance
+"i want to know, how much will i pay every month for four lakh over 20 years today",emi_calculation
+can you tell me balance enquiry please,balance_inquiry
+remaining balance in my account now,balance_inquiry
+please what about my last transaction now,recent_transaction
+minimum balance penalty now,minimum_balance
+"hi, why was a fee taken from my account",transaction_explanation
+could you tell me compare loans thanks,loan_comparison
+please personal loan vs car loan please,loan_comparison
+what was the charge in my account today,transaction_explanation
+show transactions from this month,transaction_history
+what is my total balance today,balance_inquiry
+transaction history,transaction_history
+"hello, tell me about your loan products ?",loan_information
+please what is the minimum balance requirement ?,minimum_balance
+could you tell me education loan rates ?,interest_rate
+latest transaction thanks,recent_transaction
+"i want to know, list my transactions thanks",transaction_history
+"hello, open the pod bay doors please",fallback
+what are your loan rates today,interest_rate
+"hello, what is the difference between a home loan and a education loan now",loan_comparison
+can i afford a loan of 25 lakh now,loan_eligibility
+"i want to know, last debit from my account please",recent_transaction
+QUICK QUESTION - HOW MUCH HOUSING LOAN AM I ELIGIBLE FOR THANKS,loan_eligibility
+"hey, account summary now",account_information
+what is the capital of france ?,fallback
+what is the minimum average balance for salary account,minimum_balance
+"HELLO, HOW MUCH MINIMUM BALANCE SHOULD I MAINTAIN THANKS",minimum_balance
+can you tell me my account number ?,account_information
+how do i apply for a car loan,loan_information
+quick question - work out the monthly payment on a car loan of 5 lakh,emi_calculation
+quick question - is a loan of 5 lakh affordable for me please,loan_eligibility
+list your features,help
+my account number,account_information
+when was my last transaction ?,recent_transaction
+how much will i pay every month for 25 lakh over 5 yrs please,emi_calculation
+quick question - and for 5 years,fallback
+what is my ledger balance now,balance_inquiry
+can you tell me last upi payment,recent_transaction
+"hey, why is there a debit of 25 lakh",transaction_explanation
+I WANT TO SEE MY TRANSACTION HISTORY,transaction_history
+"Can You Tell Me Monthly Payment For Rs 8,00,000 At 8.5%",emi_calculation
+what about my last transaction ?,recent_transaction
+how much money do i have,balance_inquiry
+WHAT WAS THE CHARGE IN MY ACCOUNT PLEASE,transaction_explanation
+which loans do you offer,loan_information
+"hi, any hidden charges on my account today",account_charges
+rate of interest for auto loan,interest_rate
+"hey, tell me about loans now",loan_information
+When Did I Last Make A Payment,recent_transaction
+what fees do you charge on my account ?,account_charges
+"hey, balance please please",balance_inquiry
+"hey, interest rates please now",interest_rate
+how much do you charge for imps now,account_charges
+"i want to know, zero balance account please",minimum_balance
+"hey, what loans are available",loan_information
+"I Want To Know, Is There A Minimum Balance Requirement Now",minimum_balance
+what are your loan rates,interest_rate
+charges on current account ?,account_charges
+what is txn txn10001002 for ?,transaction_explanation
+monthly payment for four lakh at 12%,emi_calculation
+"HEY, IS A LOAN OF RS 8,00,000 AFFORDABLE FOR ME NOW",loan_eligibility
+"hi, explain this transaction today",transaction_explanation
+CURRENT RATES ON SAVINGS ACCOUNT PLEASE,interest_rate
+explain this transaction thanks,transaction_explanation
+average monthly balance required,minimum_balance
+"hey, i earn 50000 per month can i get a car loan ?",loan_eligibility
+"i want to know, show my recent transactions today",transaction_history
+show my recent activity please,transaction_history
+"hello, what is the difference between a student loan and a education loan",loan_comparison
+"hi, who is this payment to",transaction_explanation
+"i want to know, how much funds do i have",balance_inquiry
+can you tell me tell me the emi for 15 years,emi_calculation
+"hi, what type of account do i have thanks",account_information
+please what would the emi be for 7.5 lakh today,emi_calculation
+how much was my last transaction,recent_transaction
+will i get a auto loan,loan_eligibility
+quick question - what is the maximum loan i can get today,loan_eligibility
+please which branch is my account in please,account_information
+Show My Last 10 Transactions ?,transaction_history
+hi there :),greeting
+quick question - show transactions from last week ?,transaction_history
+could you tell me calculate my emi,emi_calculation
+"Hi, What Was The Last Debit Today",recent_transaction
+maybe,fallback
+how much money is left in my savings account thanks,balance_inquiry
+"hello, what time is it in london please",fallback
+how much money do i have ?,balance_inquiry
+"i want to know, remaining balance in my account",balance_inquiry
+what's my available balance please,balance_inquiry
+"₹3,00,000",fallback
+"hello, view my statement for last 30 days",transaction_history
+"hey, and my last transaction please",recent_transaction
+"Hey, What Transactions Happened Last Month",transaction_history
+bye!,goodbye
+"hello, charges on savings account thanks",account_charges
+"HEY, WHAT IS THE PENALTY FOR LOW BALANCE",minimum_balance
+"hey, can i get a auto loan of rs 8,00,000 for 36 months",loan_eligibility
+"hello, how much is in my account",balance_inquiry
+please what interest do i get on my savings account today,interest_rate
+"hello, show my balance",balance_inquiry
+"hey, what is a personal loan today",loan_information
+"hey, what happens if i don't maintain minimum balance thanks",minimum_balance
+Please Minimum Balance For Savings Account Today,minimum_balance
+remaining balance in my account thanks,balance_inquiry
+"hey, what is my account status ?",account_information
+what is the maximum amount for a student loan now,loan_information
+SHOW RECENT PAYMENTS FROM MY ACCOUNT ?,transaction_history
+"hello, what is the fee for neft",account_charges
+"I WANT TO KNOW, GIVE ME MY ACCOUNT INFORMATION THANKS",account_information
+quick question - who is this payment to,transaction_explanation
+"i want to know, what is the non maintenance charge",minimum_balance
+"i want to know, details of my current account now",account_information
+WHY DID I GET CHARGED,transaction_explanation
+unknown debit in my account ?,transaction_explanation
+could you tell me show my recent transactions,transaction_history
+"quick question - emi for ₹3,00,000 over 15 years please",emi_calculation
+what is the interest rate for a student loan,interest_rate
+can i afford the emi for a housing loan of 3 lakh,loan_eligibility
+what loans are available,loan_information
+minimum balance penalty,minimum_balance
+what is the non maintenance charge,minimum_balance
+compare personal loan and home loan,loan_comparison
+hey there!,greeting
+quick question - why was i charged a penalty please,transaction_explanation
+"hi, minimum balance penalty",minimum_balance
+car loan or car loan which should i choose,loan_comparison
+COMPARE LOANS,loan_comparison
+CAN YOU TELL ME SHOW MY NEFT TRANSACTIONS,transaction_history
+how much will i pay every month for 10 lakh over 36 months please,emi_calculation
+"hi, explain the deduction thanks",transaction_explanation
+"i want to know, minimum balance penalty",minimum_balance
+QUICK QUESTION - MINIMUM BALANCE PENALTY ?,minimum_balance
+loan products list,loan_information
+thank you,goodbye
+"hi, give me my account information",account_information
+quick question - what is this charge on my statement today,transaction_explanation
+"hey, compare education loan and education loan interest rates",loan_comparison
+"hi, what are the bank charges",account_charges
+"hello, why is there a debit of 25 lakh",transaction_explanation
+"i want to know, show my neft transactions",transaction_history
+quick question - what is the processing fee for a car loan,loan_information
+could you tell me my balance please,balance_inquiry
+"hello, what is this sms alert charge ?",transaction_explanation
+please show my latest transaction,recent_transaction
+Which Is Better Education Loan Or Car Loan Please,loan_comparison
+please minimum balance penalty,minimum_balance
+"hi, are you a human now",fallback
+minimum balance in current account thanks,minimum_balance
+"Hi, Minimum Balance In Current Account",minimum_balance
+show all credits this week,transaction_history
+"hi, compare the loan products please",loan_comparison
+thank you so much,goodbye
+"hello, what is the interest rate for a personal loan",interest_rate
+quick question - check balance,balance_inquiry
+when did i open my account,account_information
+what can you do :),help
+quick question - show my account details,account_information
+QUICK QUESTION - WHAT IS THE EMI FOR A CAR LOAN OF 10 LAKH FOR 5 YRS TODAY,emi_calculation
+"Hello, Emi For Four Lakh Over 3 Years",emi_calculation
+"hello, tell me about my current account please",account_information
+emi on 1 crore at 9 percent for 7 years,emi_calculation
+account maintenance charges today,account_charges
+what is the maximum amount for a car loan please,loan_information
+calculate the emi please,emi_calculation
+could you tell me tell me about your loan products now,loan_information
+quick question - account balance ?,balance_inquiry
+what type of account do i have ?,account_information
+"hi, what are the atm charges",account_charges
+explain the deduction thanks,transaction_explanation
+quick question - latest interest rates,interest_rate
+"hello, tell me about movies",fallback
+what are your capabilities :),help
+latest transaction today,recent_transaction
+thanks that's all!,goodbye
+can you tell me rate of interest for student loan,interest_rate
+what about my last transaction please,recent_transaction
+do i need to maintain a minimum balance ?,minimum_balance
+account maintenance charges now,account_charges
+current balance of my account thanks,balance_inquiry
+can you tell me tell me about my last payment please,recent_transaction
+CAN I AFFORD THE EMI FOR A HOUSING LOAN OF 50000,loan_eligibility
+is a loan of 50000 affordable for me thanks,loan_eligibility
+WHAT IS THE DAILY TRANSFER LIMIT,account_information
+"hello, can i get a home loan of 2 lakh thanks",loan_eligibility
+"hello, what is the last transaction on my account",recent_transaction
+"i want to know, do you offer auto loan ?",loan_information
+"hey, show transactions from last week",transaction_history
+"hey, transaction history please",transaction_history
+"i want to know, what is the minimum average balance for savings account ?",minimum_balance
+"hey, list my transactions now",transaction_history
+charges on current account,account_charges
+quick question - can i afford a loan of 75k please,loan_eligibility
+list of all fees,account_charges
+please what benefits does my account have,account_information
+"hello, what is the interest rate for a housing loan",interest_rate
+"hi, how much money is left in my current account please",balance_inquiry
+what loans are available now,loan_information
+can you tell me housing loan interest rate,interest_rate
+PLEASE ANY HIDDEN CHARGES ON MY ACCOUNT THANKS,account_charges
+give me my account statement,transaction_history
+good morning!,greeting
+"HI, SHOW MY BALANCE",balance_inquiry
+could you tell me details of car loan now,loan_information
+could you tell me account maintenance charges,account_charges
+"HI, I NEED MONEY ?",loan_eligibility
+QUICK QUESTION - HOME LOAN VERSUS CAR LOAN ?,loan_comparison
+"hello, what is the non maintenance charge today",minimum_balance
+please tell me about my savings account thanks,account_information
+"hello, compare the loan products",loan_comparison
+can you tell me tell me my previous transaction today,recent_transaction
+what services do you provide!,help
+last debit from my account please,recent_transaction
+"hello, what was my last transaction now",recent_transaction
+"hey, account summary",account_information
+mini statement thanks,transaction_history
+What Transactions Happened Yesterday,transaction_history
+goodbye,goodbye
+"hello, transaction history",transaction_history
+quick question - zero balance account thanks,minimum_balance
+tell me my current balance,balance_inquiry
+what is the minimum average balance for current account,minimum_balance
+PLEASE BALANCE ENQUIRY,balance_inquiry
+why was this amount debited,transaction_explanation
+quick question - show my profile,account_information
+"hello, what if 25 lakh",fallback
+10 years,fallback
+quick question - what is the meaning of life,fallback
+What Is The Minimum Balance Requirement ?,minimum_balance
+"hey, show my upi transactions ?",transaction_history
+what is the maximum amount for a car loan today,loan_information
+"what about ₹3,00,000 now",fallback
+can you tell me remaining balance in my account ?,balance_inquiry
+what's my available balance now,balance_inquiry
+could you tell me show my latest transaction please,recent_transaction
+"can i afford a loan of rs 8,00,000 thanks",loan_eligibility
+what is the age limit for auto loan,loan_information
+What Charges Have Been Applied Recently,account_charges
+please show my recent activity,transaction_history
+"HEY, MY SALARY IS 60K AM I ELIGIBLE FOR A CAR LOAN OF 2 LAKH ?",loan_eligibility
+quick question - what interest do i get on my savings account please,interest_rate
+"hey, what is the penalty for low balance",minimum_balance
+What Loans Are Available Today,loan_information
+"hi, education loan or education loan which should i choose",loan_comparison
+quick question - tell me about my current account,account_information
+"hello, who is this payment to",transaction_explanation
+what can i ask you,help
+could you tell me show my transactions for this month thanks,transaction_history
+"hi, last upi payment thanks",recent_transaction
+please how much balance should i keep in my current account ?,minimum_balance
+"hey, what is my ifsc code today",account_information
+last upi payment please,recent_transaction
+What Is A Housing Loan,loan_information
+minimum balance for savings account today,minimum_balance
+"hi, what are the features of my account",account_information
+can you tell me make it 7 years,fallback
+can you tell me transaction limits on my account,account_information
+"hey, how much minimum balance should i maintain",minimum_balance
+"i want to know, average monthly balance required today",minimum_balance
+"hey, make it 3 years thanks",fallback
+could you tell me home loan versus car loan,loan_comparison
+"hello, interest rates please",interest_rate
+"hi, will i get a housing loan now",loan_eligibility
+please show my transactions for last 3 months,transaction_history
+"hello, show my latest transaction thanks",recent_transaction
+"HI, WHY WAS 3 LAKH DEDUCTED ?",transaction_explanation
+tell me about the car loan,loan_information
+ok thanks,goodbye
+what is the processing fee for a auto loan please,loan_information
+how much loan can i get,loan_eligibility
+could you tell me emi for 10 lakh over 15 years thanks,emi_calculation
+show me what you can do,help
+quick question - how much minimum balance should i maintain now,minimum_balance
+what is the atm withdrawal limit,account_information
+"hello, emi for 10 lakh over 20 years today",emi_calculation
+latest transaction now,recent_transaction
+can i get a car loan please,loan_eligibility
+"hey, and my last transaction thanks",recent_transaction
+hey bot!,greeting
+features of auto loan please,loan_information
+"hey, recommend a good stock to buy now",fallback
+open the pod bay doors,fallback
+"will my housing loan of rs 8,00,000 be approved please",loan_eligibility
+emi for 75k over 3 years ?,emi_calculation
+tell me about your loan products,loan_information
+"hi, how much is the cheque book fee",account_charges
+how can you help me,help
+"hello, what would the emi be for 50000 now",emi_calculation
+what interest do i get on my savings account thanks,interest_rate
+please what is gst charge in my statement,transaction_explanation
+will my home loan of 25 lakh be approved today,loan_eligibility
+"hello, what is the atm withdrawal limit",account_information
+why was i charged a penalty today,transaction_explanation
+please what is the minimum balance requirement,minimum_balance
+"i want to know, what is the fd rate for 1 year thanks",interest_rate
+"hello, when was my last transaction",recent_transaction
+which branch is my account in,account_information
+explain transaction txn10001002 today,transaction_explanation
+"i want to know, personal loan vs education loan",loan_comparison
+could you tell me calculate the emi please,emi_calculation
+please i see a deduction i don't recognise please,transaction_explanation
+could you tell me show my account details,account_information
+what are my transactions in the last week today,transaction_history
+how much housing loan am i eligible for please,loan_eligibility
+please view my statement for last 3 months now,transaction_history
+what's my available balance thanks,balance_inquiry
+how is a home loan different from a personal loan,loan_comparison
+give me my account statement please,transaction_history
+yes,fallback
+tell me a joke thanks,fallback
+"Hello, What Happens If I Don'T Maintain Minimum Balance",minimum_balance
+what is my most recent transaction,recent_transaction
+explain transaction TXN10000456,transaction_explanation
+what is the daily transfer limit thanks,account_information
+"i want to know, what are the atm charges",account_charges
+blah blah please,fallback
+quick question - i want a car loan,loan_eligibility
+please what are your loan rates thanks,interest_rate
+unknown debit in my account,transaction_explanation
+"HI, CALCULATE THE EMI THANKS",emi_calculation
+what is the penalty for low balance ?,minimum_balance
+please account maintenance charges,account_charges
+"HELLO, COMPARE HOME LOAN WITH EDUCATION LOAN",loan_comparison
+"hi, what is the difference between a home loan and a home loan now",loan_comparison
+"hey, balance enquiry",balance_inquiry
+compare student loan and car loan interest rates now,loan_comparison
+please can i afford a loan of 10 lakh,loan_eligibility
+what can you do,help
+"hello, sms alert charges",account_charges
+"hello, home loan versus car loan please",loan_comparison
+what is the minimum balance requirement,minimum_balance
+WHAT ARE THE ATM CHARGES THANKS,account_charges
+I WANT TO TAKE A CAR LOAN TODAY,loan_eligibility
+features of education loan ?,loan_information
+"hello, interest rate thanks",interest_rate
+"hey, zero balance account today",minimum_balance
+last debit from my account today,recent_transaction
+"hi, available balance please",balance_inquiry
+OK FOUR LAKH,fallback
+"hey, and my last transaction",recent_transaction
+"hi, how much emi will i pay for 3 lakh for 10 years",emi_calculation
+"i want to know, any hidden charges on my account",account_charges
+"hey, what was the last amount credited",recent_transaction
+Which Is Better Auto Loan Or Personal Loan ?,loan_comparison
+Can You Hack The Bank,fallback
+"please why is there a debit of rs 8,00,000 today",transaction_explanation
+PLEASE SHOW MY TRANSACTIONS IN JULY,transaction_history
+"hi, monthly payment for 3 lakh at 10% thanks",emi_calculation
+hi there!,greeting
+what about my last transaction today,recent_transaction
+what is txn TXN10000456 for ?,transaction_explanation
+who is the prime minister please,fallback
+what is a personal loan,loan_information
+why was money deducted from my account please,transaction_explanation
+"hi, compare car loan and home loan interest rates ?",loan_comparison
+"hello, what is a home loan thanks",loan_information
+can you hack the bank thanks,fallback
+"could you tell me emi for ₹3,00,000 over 10 years",emi_calculation
+"hello, what would the emi be for 5 lakh",emi_calculation
+"hi, what is the minimum average balance for savings account",minimum_balance
+"hi, how much is in my account",balance_inquiry
+quick question - show my last 2 transactions,transaction_history
+"ok rs 8,00,000 now",fallback
+what is the tenure of a home loan thanks,loan_information
+"hi, calculate my emi thanks",emi_calculation
+"hey, car loan or car loan which should i choose thanks",loan_comparison
+calculate my emi now,emi_calculation
+quick question - how do i cook biryani now,fallback
+interest rate,interest_rate
+what type of account do i have,account_information
+"hello, details of my salary account thanks",account_information
+"hey, what documents are required for a car loan",loan_information
+quick question - recommend a good stock to buy ?,fallback
+what is the interest rate for a home loan,interest_rate
+check if i can get 75k loan now,loan_eligibility
+"hey, show my profile",account_information
+"i want to know, compare car loan with personal loan now",loan_comparison
+good evening :),greeting
+"hello, what documents are required for a housing loan now",loan_information
+"I WANT TO KNOW, WHAT IS MY DAILY UPI LIMIT ?",account_information
+check balance please,balance_inquiry
+could you tell me i need a loan of 5 lakh for 60 months,loan_eligibility
+please what is the age limit for auto loan,loan_information
+"hi, find emi for 25 lakh loan",emi_calculation
+please what time is it in london now,fallback
+how much will it cost to get a duplicate statement ?,account_charges
+last transaction details today,recent_transaction
+"hi, i earn 40000 per month can i get a home loan",loan_eligibility
+who is this payment to thanks,transaction_explanation
+"hi, tell me about movies ?",fallback
+when was my last transaction today,recent_transaction
+"hi, what are my transactions in the last 30 days today",transaction_history
+"hey, what type of account do i have",account_information
+i am bored thanks,fallback
+and for 36 months today,fallback
+WHAT RATE DO YOU CHARGE ON STUDENT LOAN ?,interest_rate
+COULD YOU TELL ME ARE YOU A HUMAN TODAY,fallback
+"hey, what is this charge on my statement",transaction_explanation
+LATEST INTEREST RATES,interest_rate
+how much is the cheque book fee,account_charges
+could you tell me tell me the roi on student loan please,interest_rate
+what charges have been applied recently today,account_charges
+what is the minimum balance,minimum_balance
+please list of all fees,account_charges
+"I Want To Know, What Accounts Do I Have With You",account_information
+"hi, what was the most recent payment from my account",recent_transaction
+show my transactions in july ?,transaction_history
+"i want to know, what time is it in london please",fallback
+"HEY, EMI ON 7.5 LAKH AT 9 PERCENT FOR 3 YEARS",emi_calculation
+can you tell me interest rate,interest_rate
+What Is The Daily Transfer Limit,account_information
+do i need to maintain a minimum balance today,minimum_balance
+"hi, what is the available balance in my account now",balance_inquiry
+WRITE A POEM NOW,fallback
+"hey, what is the penalty for low balance thanks",minimum_balance
+what is the atm withdrawal limit please,account_information
+"hey, explain transaction TXN10000221 now",transaction_explanation
+Can I Afford This Loan Thanks,loan_eligibility
+hey bot :),greeting
+"hi, any hidden charges on my account",account_charges
+what rate will i get on a education loan thanks,interest_rate
+"hi, i want to borrow 25 lakh",loan_eligibility
+"hello, how is a home loan different from a personal loan",loan_comparison
+"hello, explain the deduction now",transaction_explanation
+quick question - show my last 20 transactions ?,transaction_history
+How Much Money Is Left In My Salary Account,balance_inquiry
+why was money deducted from my account thanks,transaction_explanation
+could you tell me show my recent transactions please,transaction_history
+personal loan vs education loan today,loan_comparison
+MAYBE,fallback
+what happens if i don't maintain minimum balance ?,minimum_balance
+quick question - what was the charge in my account,transaction_explanation
+could you tell me mini statement ?,transaction_history
+"hello, personal loan vs education loan",loan_comparison
+quick question - tell me about my last payment thanks,recent_transaction
+What Is Txn Txn10001002 For,transaction_explanation
+WHAT IS THIS SMS ALERT CHARGE,transaction_explanation
+quick question - what is the minimum balance requirement,minimum_balance
+and then today,fallback
+please what is this sms alert charge,transaction_explanation
+could you tell me personal loan vs education loan please,loan_comparison
+compare home loan with car loan thanks,loan_comparison
+am i eligible for a personal loan ?,loan_eligibility
+quick question - what is the balance in my account ?,balance_inquiry
+what will be the emi for a personal loan of 2 lakh please,emi_calculation
+ok four lakh,fallback
+"i want to know, tell me the emi for 15 years",emi_calculation
+"hi, latest transaction ?",recent_transaction
+"hello, eligibility for education loan now",loan_eligibility
+"hello, how do i apply for a auto loan",loan_information
+QUICK QUESTION - CHECK BALANCE,balance_inquiry
+what is my account balance please,balance_inquiry
+"i want to know, what is the penalty for low balance thanks",minimum_balance
+"hey, why was money deducted from my account now",transaction_explanation
+Show All Credits Yesterday,transaction_history
+what is the penalty for low balance today,minimum_balance
+"I Want To Know, Who Is The Prime Minister Thanks",fallback
+could you tell me latest transaction ?,recent_transaction
+"hey, how much balance should i keep in my salary account thanks",minimum_balance
+"hi, auto loan interest rate",interest_rate
+what is the fd rate for 1 year now,interest_rate
+help,help
+thanks!,goodbye
+what documents are required for a education loan thanks,loan_information
+what is the fee for neft,account_charges
+what are the bank charges today,account_charges
+what should i wear today,fallback
+can you tell me i need 75k,loan_eligibility
+Quick Question - Features Of Auto Loan,loan_information
+please mini statement,transaction_history
+quick question - i earn 50000 per month can i get a auto loan,loan_eligibility
+hello there :),greeting
+quick question - need a loan of 50000 ?,loan_eligibility
+check if i can get 10 lakh loan,loan_eligibility
+ASDFGH QWERTY PLEASE,fallback
+what is my total balance thanks,balance_inquiry
+quick question - explain the features of a current account today,account_information
+quick question - what are the bank charges,account_charges
+can you check my balance now,balance_inquiry
+give me free money,fallback
+What If 50000,fallback
+"hi, transactions between 2026-08-01 and 2026-08-31",transaction_history
+debit card annual fee today,account_charges
+Please Compare Home Loan And Home Loan Interest Rates Please,loan_comparison
+quick question - what rate will i get on a home loan ?,interest_rate
+show all credits this week ?,transaction_history
+can you tell me for 7 years then ?,fallback
+"hey, account type and status thanks",account_information
+can you tell me interest rates please,interest_rate
+show my latest transaction today,recent_transaction
+is a loan of 2 lakh affordable for me now,loan_eligibility
+last debit from my account,recent_transaction
+can you tell me any hidden charges on my account,account_charges
+"i want to know, which loans do you offer please",loan_information
+show me what you can do :),help
+quick question - what happens if i don't maintain minimum balance,minimum_balance
+"hello, debit card annual fee today",account_charges
+"HI, SHOW MY UPI TRANSACTIONS PLEASE",transaction_history
+current balance of my account now,balance_inquiry
+how much personal loan am i eligible for ?,loan_eligibility
+could you tell me who is this payment to please,transaction_explanation
+"could you tell me find emi for ₹3,00,000 loan today",emi_calculation
+"hello, display my last 15 transactions today",transaction_history
+QUICK QUESTION - WHAT LOANS ARE AVAILABLE,loan_information
+quick question - tell me the emi for 5 years thanks,emi_calculation
+and 12% now,fallback
+can you tell me explain the features of a savings account,account_information
+"i want to know, what would the emi be for 3 lakh now",emi_calculation
+tell me the emi for 10 years please,emi_calculation
+options!,help
+PLEASE WHAT IS THE FEE FOR NEFT,account_charges
+compare personal loan and home loan please,loan_comparison
+CAN YOU TELL ME I NEED MY ACCOUNT STATEMENT ?,transaction_history
+WHAT IS THE INTEREST RATE FOR A EDUCATION LOAN NOW,interest_rate
+quick question - how much is in my account today,balance_inquiry
+"hi, tell me my previous transaction",recent_transaction
+what rate do you charge on car loan,interest_rate
+please show me the balance of my salary account,balance_inquiry
+please what is the processing fee for a personal loan ?,loan_information
+MY LAST TRANSACTION PLEASE,recent_transaction
+"Hello, What Is This Deduction Thanks",transaction_explanation
+emi calculator,emi_calculation
+please difference between home loan and car loan,loan_comparison
+COULD YOU TELL ME TELL ME ABOUT THE AUTO LOAN,loan_information
+can you tell me car loan or car loan which should i choose ?,loan_comparison
+What Is The Fd Rate For 1 Year ?,interest_rate
+quick question - i need a loan of 7.5 lakh for 10 years,loan_eligibility
+PLEASE TELL ME ABOUT YOUR LOAN PRODUCTS THANKS,loan_information
+"hello, why was this amount debited",transaction_explanation
+"hi, how much interest does my savings account earn",interest_rate
+could you tell me show my recent activity,transaction_history
+"hello, what is the penalty for low balance",minimum_balance
+"hello, what happens if i don't maintain minimum balance",minimum_balance
+what is my ifsc code now,account_information
+"i want to know, compare auto loan with home loan today",loan_comparison
+Quick Question - Am I Eligible For 50000 Education Loan For 10 Years Thanks,loan_eligibility
+"hey, personal loan vs education loan today",loan_comparison
+hello there!,greeting
+WHAT TIME IS IT IN LONDON PLEASE,fallback
+Quick Question - Car Loan Or Home Loan Which Should I Choose,loan_comparison
+what are your loan rates now,interest_rate
+please how is a home loan different from a personal loan,loan_comparison
+please difference between housing loan and car loan,loan_comparison
+please how many accounts do i have,account_information
+list my transactions,transaction_history
+"i want to know, how much loan can i get",loan_eligibility
+make it 15 years please,fallback
+account summary today,account_information
+GET MY PAST 10 TRANSACTIONS ?,transaction_history
+"i want to know, compare the loan products",loan_comparison
+Quick Question - What Rate Do You Charge On Housing Loan Thanks,interest_rate
+thanks that's all,goodbye
+"I WANT TO KNOW, WHICH BRANCH IS MY ACCOUNT IN PLEASE",account_information
+"i want to know, personal loan vs education loan please",loan_comparison
+"hello, i need my account statement",transaction_history
+"hello, show my latest transaction",recent_transaction
+why did i get charged please,transaction_explanation
+quick question - how about 20 years,fallback
+can you tell me calculate the emi today,emi_calculation
+PLEASE PERSONAL LOAN VS HOME LOAN TODAY,loan_comparison
+please emi for 7.5 lakh over 2 years,emi_calculation
+"hi, tell me about your loan products ?",loan_information
+and for 10 years thanks,fallback
+tell me about my last payment please,recent_transaction
+"hey, what is the difference between a home loan and a home loan ?",loan_comparison
+"hi, compare loans ?",loan_comparison
+"Hello, Why Was I Charged A Penalty",transaction_explanation
+"hi, i am looking for a education loan ?",loan_eligibility
+quick question - my account number ?,account_information
+"hey, tell me my previous transaction ?",recent_transaction
+what is my ifsc code,account_information
+can you tell me debit card annual fee now,account_charges
+please do you like pizza,fallback
+quick question - what was my last credit today,recent_transaction
+what was my last credit please,recent_transaction
+quick question - personal loan vs education loan thanks,loan_comparison
+"hey, what rate do you charge on housing loan",interest_rate
+need a loan of 10 lakh,loan_eligibility
+how much money is left in my savings account,balance_inquiry
+"hey, i want to borrow four lakh",loan_eligibility
+hello there,greeting
+"hi, why was this amount debited today",transaction_explanation
+"HEY, CHECK IF I CAN GET 7.5 LAKH LOAN",loan_eligibility
+"hi, what is the difference between a housing loan and a education loan please",loan_comparison
+could you tell me explain transaction TXN10000456,transaction_explanation
+"hey, loan products list",loan_information
+please which loans do you offer ?,loan_information
+AVAILABLE BALANCE PLEASE,balance_inquiry
+Blah Blah,fallback
+"hi, show transactions from this week please",transaction_history
+Quick Question - I See A Deduction I Don'T Recognise ?,transaction_explanation
+blah blah,fallback
+"i want to know, interest rates please ?",interest_rate
+have a nice day :),goodbye
+how does this work!,help
+please what will be the emi for a student loan of 75k ?,emi_calculation
+quick question - any hidden charges on my account,account_charges
+what was the most recent payment from my account today,recent_transaction
+charges on salary account thanks,account_charges
+that will be all,goodbye
+what is the minimum balance please,minimum_balance
+TELL ME ABOUT MY SALARY ACCOUNT ?,account_information
+which loans do you offer please,loan_information
+what is my daily upi limit please,account_information
+no more questions!,goodbye
+charges on savings account thanks,account_charges
+"hi, when was my last transaction",recent_transaction
+"HELLO, WILL I GET A HOUSING LOAN",loan_eligibility
+"hi, how is a home loan different from a personal loan",loan_comparison
+"hello, what fees do you charge on my account thanks",account_charges
+current balance of my account ?,balance_inquiry
+could you tell me account summary,account_information
+"i want to know, last transaction details",recent_transaction
+"how much emi will i pay for rs 8,00,000 for 60 months",emi_calculation
+please home loan rates ?,interest_rate
+what is this deduction now,transaction_explanation
+No,fallback
+HOUSING LOAN RATES ?,interest_rate
+compute emi today,emi_calculation
+"i want to know, how many accounts do i have",account_information
+"hi, what was my last credit",recent_transaction
+prepayment charges on housing loan,loan_information
+quick question - calculate emi for 75k for 36 months at 11.5%,emi_calculation
+"HEY, GIVE ME MY ACCOUNT STATEMENT THANKS",transaction_history
+"hello, loan products list now",loan_information
+what interest do i get on my savings account now,interest_rate
+"hi, what is the age limit for personal loan today",loan_information
+IS THERE A MINIMUM BALANCE REQUIREMENT,minimum_balance
+which is better home loan or car loan,loan_comparison
+ok today,fallback
+why was i charged a penalty,transaction_explanation
+what is the available balance in my account,balance_inquiry
+"i want to know, how about 10 years",fallback
+what is the emi for a personal loan of 3 lakh for 36 months,emi_calculation
+"hello, what is the meaning of life ?",fallback
+write a poem,fallback
+"I Want To Know, What Is The Non Maintenance Charge",minimum_balance
+what was the last amount credited,recent_transaction
+features of education loan,loan_information
+"hello, when did i open my account",account_information
+"HEY, WHAT ARE YOUR LOAN RATES",interest_rate
+"i want to know, remaining balance in my account now",balance_inquiry
+please transaction limits on my account please,account_information
+please what would the emi be for 10 lakh,emi_calculation
+quick question - i want to borrow 75k please,loan_eligibility
+how much was my last transaction today,recent_transaction
+WHAT ARE THE ATM CHARGES,account_charges
+what is my account balance now,balance_inquiry
+what is the capital of france,fallback
+please compare the loan products now,loan_comparison
+"hey, what is the daily transfer limit thanks",account_information
+could you tell me i am looking for a car loan,loan_eligibility
+please is there a minimum balance requirement,minimum_balance
+show my recent transactions thanks,transaction_history
+please min balance now,minimum_balance
+can i get a auto loan,loan_eligibility
+"hello, what is my monthly emi for 3 years thanks",emi_calculation
+"i want to know, fixed deposit interest rates please",interest_rate
+can you tell me i want to take a education loan thanks,loan_eligibility
+please tell me my previous transaction,recent_transaction
+how much will i pay every month for 3 lakh over 2 years thanks,emi_calculation
+CAN YOU TELL ME EXPLAIN THIS TRANSACTION NOW,transaction_explanation
+"Hey, What If Four Lakh Please",fallback
+"hello, what was the last debit",recent_transaction
+"hey, i need 25 lakh",loan_eligibility
+what is the daily transfer limit,account_information
+what is the minimum average balance for current account now,minimum_balance
+"hello, loan options ?",loan_information
+list of all fees today,account_charges
+have a nice day,goodbye
+"hi, give me free money",fallback
+show all my debits,transaction_history
+"i want to know, charges on salary account",account_charges
+that's all for now :),goodbye
+SHOW MY BALANCE,balance_inquiry
+"I Want To Know, What Is The Difference Between A Auto Loan And A Education Loan",loan_comparison
+what do you do!,help
+transaction limits on my account now,account_information
+can i afford a loan of 50000 now,loan_eligibility
+please last transaction details ?,recent_transaction
+"i want to know, what is the maximum amount for a home loan",loan_information
+"hi, what fees do you charge on my account today",account_charges
+could you tell me account maintenance charges please,account_charges
+ASDFGH QWERTY,fallback
+please current rates on savings account,interest_rate
+why was a fee taken from my account today,transaction_explanation
+What Fees Do You Charge On My Account,account_charges
+could you tell me tell me my current balance,balance_inquiry
+"Hi, Why Was This Amount Debited Please",transaction_explanation
+how much balance should i keep in my salary account,minimum_balance
+can you tell me check if i can get 1 crore loan thanks,loan_eligibility
+goodbye!,goodbye
+how much is in my account now,balance_inquiry
+quick question - transaction history,transaction_history
+what is my balance ?,balance_inquiry
+i want to see my transaction history ?,transaction_history
+quick question - minimum balance in current account ?,minimum_balance
+find emi for 50000 loan,emi_calculation
+good evening!,greeting
+"Hello, Which Is Better Housing Loan Or Education Loan Thanks",loan_comparison
+show my latest transaction please,recent_transaction
+good evening,greeting
+what about that today,fallback
+can i afford the emi for a student loan of 75k,loan_eligibility
+what is the rd interest rate,interest_rate
+can you tell me show my profile today,account_information
+"hi, account balance today",balance_inquiry
+"i want to know, difference between auto loan and education loan today",loan_comparison
+explain transaction TXN10000221,transaction_explanation
+could you tell me order me a pizza ?,fallback
+What Is The Difference Between A Auto Loan And A Car Loan ?,loan_comparison
+please prepayment charges on home loan,loan_information
+"hi, how much funds do i have ?",balance_inquiry
+can you tell me compare home loan with personal loan today,loan_comparison
+see you later,goodbye
+please open the pod bay doors ?,fallback
+what is gst charge in my statement now,transaction_explanation
+what is the age limit for car loan now,loan_information
+"hey, explain the features of a salary account thanks",account_information
+"hey, what is the fee for neft now",account_charges
+WHY WAS 3 LAKH DEDUCTED ?,transaction_explanation
+"hello, latest interest rates",interest_rate
+what time is it in london thanks,fallback
+calculate the emi,emi_calculation
+quick question - what is my ifsc code today,account_information
+can you tell me details of auto loan,loan_information
+please what is the emi for a education loan of 10 lakh for 5 years please,emi_calculation
+asdfgh qwerty,fallback
+quick question - what is the daily transfer limit,account_information
+what is my monthly emi for 60 months ?,emi_calculation
+could you tell me minimum balance for savings account please,minimum_balance
+"i want to know, what is the non maintenance charge ?",minimum_balance
+CAN I AFFORD THIS LOAN,loan_eligibility
+can you tell me are you a human,fallback
+what is the maximum amount for a personal loan today,loan_information
+"HEY, HOW MUCH FUNDS DO I HAVE ?",balance_inquiry
+what is this sms alert charge please,transaction_explanation
+"hey, minimum balance for savings account thanks",minimum_balance
+bye bye!,goodbye
+could you tell me my salary is 60k am i eligible for a housing loan of 25 lakh,loan_eligibility
+"hi, minimum balance for savings account ?",minimum_balance
+what is this charge on my statement thanks,transaction_explanation
+"hey, compare personal loan and home loan",loan_comparison
+PLEASE WHAT RATE WILL I GET ON A STUDENT LOAN,interest_rate
+"HELLO, WHY WAS A FEE TAKEN FROM MY ACCOUNT",transaction_explanation
+Quick Question - Explain Transaction Txn10000221 Now,transaction_explanation
+WHY DID I GET CHARGED THANKS,transaction_explanation
+"hello, what are your loan rates today",interest_rate
+show me the balance of my savings account today,balance_inquiry
+please what is my ifsc code please,account_information
+thank you :),goodbye
+available balance please,balance_inquiry
+"hey, personal loan vs education loan",loan_comparison
+EMI FOR 10 LAKH OVER 36 MONTHS TODAY,emi_calculation
+can you tell me tell me about my last payment,recent_transaction
+HOW MUCH INTEREST WILL I PAY ON A PERSONAL LOAN,interest_rate
+quick question - what was the most recent payment from my account please,recent_transaction
+"HELLO, AUTO LOAN VS PERSONAL LOAN THANKS",loan_comparison
+"hi, what was the last amount credited",recent_transaction
+"i want to know, tell me about your loan products today",loan_information
+BALANCE ENQUIRY,balance_inquiry
+"hi, features of housing loan today",loan_information
+mini statement now,transaction_history
+what is txn txn10001002 for today,transaction_explanation
+"hi, what is the emi for a car loan of 75k for 2 years thanks",emi_calculation
+UNKNOWN DEBIT IN MY ACCOUNT,transaction_explanation
+"hello, balance please",balance_inquiry
+"rs 8,00,000",fallback
+"hi, minimum balance penalty please",minimum_balance
+why is there a debit of 10 lakh now,transaction_explanation
+please what transactions happened last week please,transaction_history
+"hey, debit card annual fee",account_charges
+please what is the fee for neft please,account_charges
+"hello, check balance",balance_inquiry
+that's all for now!,goodbye
+IS THERE A MINIMUM BALANCE REQUIREMENT ?,minimum_balance
+"i want to know, details of student loan today",loan_information
+quick question - when did i open my account thanks,account_information
+could you tell me i need money,loan_eligibility
+"hi, what is my monthly emi for 10 years today",emi_calculation
+"hey, what types of loans do you have today",loan_information
+quick question - what is my most recent transaction thanks,recent_transaction
+"hey, tell me about my savings account",account_information
+what are the features of my account,account_information
+remaining balance in my account today,balance_inquiry
+thanks a lot,goodbye
+blah blah today,fallback
+"hello, are you a human ?",fallback
+when did i last make a payment ?,recent_transaction
+How Much Funds Do I Have,balance_inquiry
+how much do you charge for imps,account_charges
+who won the cricket match,fallback
+TELL ME ABOUT THE HOUSING LOAN THANKS,loan_information
+QUICK QUESTION - IS THERE A MINIMUM BALANCE REQUIREMENT,minimum_balance
+Show My Recent Activity Please,transaction_history
+please what is a home loan ?,loan_information
+please can i afford a loan of four lakh,loan_eligibility
+what is my balance now,balance_inquiry
+what is the emi for a home loan of 75k for 7 years now,emi_calculation
+please how much balance should i keep in my salary account,minimum_balance
+"I WANT TO KNOW, WHAT IS TXN TXN10000221 FOR",transaction_explanation
+no please,fallback
+do you offer education loan,loan_information
+what is my daily upi limit,account_information
+how much funds do i have,balance_inquiry
+quick question - home loan interest rate,interest_rate
+show my atm withdrawals please,transaction_history
+quick question - why was this amount debited,transaction_explanation
+quick question - what documents are required for a auto loan,loan_information
+"hey, what is my daily upi limit",account_information
+tell me a joke now,fallback
+could you tell me give me my account information,account_information
+Could You Tell Me Interest Rate ?,interest_rate
+what are the charges for my account,account_charges
+quick question - current rates on savings account please,interest_rate
+details of personal loan today,loan_information
+what is txn TXN10000221 for thanks,transaction_explanation
+"HI, ORDER ME A PIZZA NOW",fallback
+can i get a personal loan of 1 crore for 5 yrs,loan_eligibility
+"hi, why was 10 lakh deducted",transaction_explanation
+"hey, when was my last transaction",recent_transaction
+please what documents are required for a auto loan,loan_information
+"hi, what documents are required for a housing loan",loan_information
+Show My Atm Withdrawals Please,transaction_history
+"hi, mini statement thanks",transaction_history
+thanks a lot!,goodbye
+can you tell me explain transaction TXN10000456,transaction_explanation
+hey,greeting
+"I Want To Know, Why Was I Charged A Penalty",transaction_explanation
+what is my account balance ?,balance_inquiry
+no more questions,goodbye
+hey bot,greeting
+show me all loans today,loan_information
+current rates on savings account ?,interest_rate
+tell me a joke today,fallback
+please auto loan or home loan which should i choose today,loan_comparison
+how can you help me :),help
+can you tell me show my profile,account_information
+tell me my previous transaction,recent_transaction
+tell me the roi on home loan,interest_rate
+what about 75k,fallback
+WHAT IS THE MAXIMUM LOAN I CAN GET,loan_eligibility
+"hello, why is there a debit of 75k",transaction_explanation
+what should i wear today now,fallback
+hi assistant!,greeting
+"hey, rate of interest for car loan today",interest_rate
+current rates on savings account thanks,interest_rate
+quick question - is there a minimum balance requirement ?,minimum_balance
+"Hello, Min Balance",minimum_balance
+can i get a car loan of 7.5 lakh for 20 years now,loan_eligibility
+"HI, CHECK IF I CAN GET 25 LAKH LOAN",loan_eligibility
+Can You Tell Me I Am Looking For A Personal Loan Now,loan_eligibility
+how many accounts do i have,account_information
+minimum balance in current account,minimum_balance
+what can i ask you :),help
+"hello, why did i get charged ?",transaction_explanation
+i would like to apply for a auto loan,loan_eligibility
+"hey, account maintenance charges",account_charges
+can you tell me remaining balance in my account,balance_inquiry
+could you tell me features of student loan please,loan_information
+"hi, what documents are required for a housing loan please",loan_information
+what is bitcoin price,fallback
+"hello, what is my balance",balance_inquiry
+"hello, balance enquiry thanks",balance_inquiry
+"hi, monthly payment for rs 8,00,000 at 12%",emi_calculation
+please tell me about my last payment please,recent_transaction
+quick question - interest rates please,interest_rate
+"hey, what about my last transaction ?",recent_transaction
+"hello, remaining balance in my account",balance_inquiry
+"i want to know, what are the charges for my account",account_charges
+what are the bank charges thanks,account_charges
+how do i apply for a personal loan,loan_information
+"i want to know, compare the loan products now",loan_comparison
+"Hi, Minimum Balance Penalty Please",minimum_balance
+ok now,fallback
+tell me the roi on education loan today,interest_rate
+could you tell me explain the deduction,transaction_explanation
+hii,greeting
+"hey, difference between education loan and education loan thanks",loan_comparison
+could you tell me show my upi transactions now,transaction_history
+DIFFERENCE BETWEEN STUDENT LOAN AND HOME LOAN PLEASE,loan_comparison
+"hi, my balance now",balance_inquiry
+monthly instalment for a loan of 1 crore for 36 months at 12%,emi_calculation
+could you tell me i need a loan of 10 lakh for 15 years,loan_eligibility
+find emi for 3 lakh loan,emi_calculation
+"hello, compute emi",emi_calculation
+what is the tenure of a housing loan thanks,loan_information
+"hey, show me the fee schedule please",account_charges
+namaste,greeting
+list your features!,help
+what do you do :),help
+Quick Question - What Are The Atm Charges Today,account_charges
+show transactions from last week,transaction_history
+good afternoon,greeting
+QUICK QUESTION - DEBIT CARD ANNUAL FEE,account_charges
+How Much Do You Charge For Imps Thanks,account_charges
+please student loan or home loan which should i choose now,loan_comparison
+bye :),goodbye
+can you tell me loan products list,loan_information
+thanks a lot :),goodbye
+show me the fee schedule,account_charges
+could you tell me show my debit transactions please,transaction_history
+"hello, do i need to maintain a minimum balance please",minimum_balance
+do i need to maintain a minimum balance,minimum_balance
+maybe ?,fallback
+"hi, transaction limits on my account",account_information
+hey there :),greeting
+"hi, tell me about my last payment",recent_transaction
+quick question - what's my available balance,balance_inquiry
+quick question - tell me about my savings account please,account_information
+please what is my monthly emi for 15 years,emi_calculation
+can you tell me show my transactions for last 3 months,transaction_history
+"hello, what is gst charge in my statement ?",transaction_explanation
+quick question - show my balance,balance_inquiry
+quick question - what was the last amount credited thanks,recent_transaction
+"hello, show my account details",account_information
+could you tell me compare home loan and personal loan interest rates,loan_comparison
+"I WANT TO KNOW, LAST DEBIT FROM MY ACCOUNT NOW",recent_transaction
+what are the atm charges,account_charges
+"HEY, HOW MUCH INTEREST WILL I PAY ON A HOME LOAN THANKS",interest_rate
+please can i get a student loan of 5 lakh,loan_eligibility
+quick question - what is the minimum balance,minimum_balance
+"hi, car loan or personal loan which should i choose ?",loan_comparison
+"hey, what is my ledger balance thanks",balance_inquiry
+WHAT IS MY LEDGER BALANCE,balance_inquiry
+can you tell me housing loan vs home loan now,loan_comparison
+give me my account statement thanks,transaction_history
+"I WANT TO KNOW, WHAT IS BITCOIN PRICE",fallback
+"hello, what will be the emi for a student loan of 2 lakh",emi_calculation
+"hello, how much balance should i keep in my savings account today",minimum_balance
+"hi, which is better student loan or personal loan",loan_comparison
+"hey, what is gst charge in my statement",transaction_explanation
+home loan or home loan which should i choose now,loan_comparison
+what is my daily upi limit today,account_information
+quick question - compare the loan products,loan_comparison
+quick question - show all credits this week please,transaction_history
+tell me my previous transaction please,recent_transaction
+what is the difference between a auto loan and a home loan now,loan_comparison
+zzzz ?,fallback
+"i want to know, tell me about my savings account thanks",account_information
+please what are my transactions in the last month thanks,transaction_history
+"hello, how much is the cheque book fee",account_charges
+"hey, what is the available balance in my account ?",balance_inquiry
+"hey, view my statement for last 3 months",transaction_history
+can you tell me debit card annual fee,account_charges
+quick question - list the last 2 transactions on my account,transaction_history
+"hello, what is the minimum balance ?",minimum_balance
+can i afford the emi for a housing loan of 2 lakh please,loan_eligibility
+I NEED FOUR LAKH,loan_eligibility
+quick question - loan products list today,loan_information
+"HELLO, SHOW ME ALL LOANS PLEASE",loan_information
+What Is The Balance In My Account Thanks,balance_inquiry
+"i want to know, what about 60 months today",fallback
+"hello, what is the current interest rate",interest_rate
+debit card annual fee,account_charges
+that's all for now,goodbye
+"hey, tell me my current balance thanks",balance_inquiry
+"hello, what is my ifsc code",account_information
+what is my account balance,balance_inquiry
+can you tell me i earn 60k per month can i get a education loan,loan_eligibility
+could you tell me personal loan vs education loan,loan_comparison
+could you tell me calculate my emi now,emi_calculation
+"hey, what is the non maintenance charge",minimum_balance
+quick question - when did i open my account,account_information
+hi assistant,greeting
+please what is the gst on charges,account_charges
+Service Charges On My Account ?,account_charges
+"hey, why was a fee taken from my account please",transaction_explanation
+tell me the emi for 60 months,emi_calculation
+could you tell me are you a human ?,fallback
+"hi, what is the penalty for low balance now",minimum_balance
+DISPLAY MY LAST 10 TRANSACTIONS ?,transaction_history
+"i want to know, charges on salary account now",account_charges
+what happens if i dont maintain minimum balance,minimum_balance
+"hello, transactions between 2026-08-01 and 2026-08-31",transaction_history
+tell me about the auto loan,loan_information
+"Hi, Show My Profile Please",account_information
+what is the difference between a personal loan and a education loan please,loan_comparison
+"hello, what is the non maintenance charge",minimum_balance
+"hello, difference between education loan and car loan",loan_comparison
+QUICK QUESTION - HOW MUCH EMI WILL I PAY FOR 75K FOR 10 YEARS TODAY,emi_calculation
+"hey, calculate emi for 2 lakh for 5 yrs at 10% thanks",emi_calculation
+options,help
+"hi, is there a minimum balance requirement today",minimum_balance
+show my debit transactions today,transaction_history
+What Was The Last Amount Credited,recent_transaction
+current rates on savings account today,interest_rate
+what rate do you charge on education loan,interest_rate
+"HELLO, WHICH IS BETTER STUDENT LOAN OR PERSONAL LOAN",loan_comparison
+"hi, what is this charge on my statement now",transaction_explanation
+could you tell me minimum balance penalty,minimum_balance
+explain the deduction,transaction_explanation
+can you tell me account balance ?,balance_inquiry
+"hello, what is this deduction please",transaction_explanation
+"hi, show my neft transactions ?",transaction_history
+please do i need to maintain a minimum balance thanks,minimum_balance
+quick question - remaining balance in my account,balance_inquiry
+quick question - what transactions happened last week today,transaction_history
+what is the age limit for home loan,loan_information
+why was 2 lakh deducted,transaction_explanation
+please transaction limits on my account thanks,account_information
+"I WANT TO KNOW, MINIMUM BALANCE FOR SAVINGS ACCOUNT",minimum_balance
+"find emi for rs 8,00,000 loan",emi_calculation
+i want to borrow 2 lakh thanks,loan_eligibility
+"hey, why was a fee taken from my account",transaction_explanation
+quick question - personal loan or education loan which should i choose today,loan_comparison
+can you tell me i am looking for a student loan please,loan_eligibility
+could you tell me i want a personal loan please,loan_eligibility
+what is the penalty for low balance thanks,minimum_balance
+can you tell me compute emi please,emi_calculation
+what is my most recent transaction ?,recent_transaction
+"i want to know, what was the charge in my account now",transaction_explanation
+tell me about the personal loan today,loan_information
+hi assistant :),greeting
+"i want to know, what will be the emi for a car loan of 25 lakh today",emi_calculation
+what is my account status thanks,account_information
+can you tell me can you hack the bank,fallback
+"hey, how much interest will i pay on a education loan today",interest_rate
+"hi, show my profile",account_information
+"₹3,00,000 today",fallback
+"hey, minimum balance penalty",minimum_balance
+"hi, my balance",balance_inquiry
+"hi, what is my account status",account_information
+WHAT ARE THE CHARGES FOR MY ACCOUNT PLEASE,account_charges
+"hello, what is the current interest rate thanks",interest_rate
+how much emi will i pay for 50000 for 36 months thanks,emi_calculation
+"i want to know, charges on savings account",account_charges
+which is better home loan or personal loan,loan_comparison
+please show my recent transactions,transaction_history
+thanks that's all :),goodbye
+"Hey, What Is The Non Maintenance Charge ?",minimum_balance
+i want to know my balance,balance_inquiry
+can you tell me check my loan eligibility thanks,loan_eligibility
+bye bye,goodbye
+what was my last transaction thanks,recent_transaction
+i want to know about loans thanks,loan_information
+what was my last transaction please,recent_transaction
+WHAT IS THE MINIMUM BALANCE NOW,minimum_balance
+home loan versus car loan today,loan_comparison
+calculate my emi thanks,emi_calculation
+quick question - which loans do you offer ?,loan_information
+"i want to know, i want to borrow 3 lakh",loan_eligibility
+"i want to know, will my home loan of 25 lakh be approved",loan_eligibility
+"i want to know, display my last 5 transactions",transaction_history
+Please Minimum Balance In Current Account Please,minimum_balance
+my account number ?,account_information
+"Hey, What Is The Penalty For Low Balance",minimum_balance
+"hey, what's the weather today",fallback
+what is the meaning of life,fallback
+who won the cricket match thanks,fallback
+"hi, show my neft transactions",transaction_history
+can you tell me compute emi,emi_calculation
+ok thanks :),goodbye
+"can you tell me my salary is 1.2 lakh am i eligible for a car loan of ₹3,00,000",loan_eligibility
+fixed deposit interest rates please,interest_rate
+"i want to know, emi calculator",emi_calculation
+check if i can get 5 lakh loan,loan_eligibility
+do i qualify for a home loan,loan_eligibility
+"please can i get a education loan of rs 8,00,000 today",loan_eligibility
+"hey, how much will i pay every month for 7.5 lakh over 60 months thanks",emi_calculation
+could you tell me check my loan eligibility thanks,loan_eligibility
+tell me about your loan products today,loan_information
+View My Statement For Yesterday ?,transaction_history
+what rate will i get on a car loan,interest_rate
+"Hey, What Is A Home Loan Today",loan_information
+"i want to know, how much is in my account",balance_inquiry
+help me,help
+"Hello, Transactions Between 2026-08-01 And 2026-08-31",transaction_history
+EXPLAIN THE DEDUCTION NOW,transaction_explanation
+"hey, do i need to maintain a minimum balance today",minimum_balance
+"hi, what is the interest rate for a auto loan ?",interest_rate
+"hi, what is the non maintenance charge thanks",minimum_balance
+please home loan vs education loan thanks,loan_comparison
+"hi, why is there a debit of 3 lakh ?",transaction_explanation
+"hi, loan options thanks",loan_information
+"hey, what is the current interest rate",interest_rate
+thanks :),goodbye
+"hey, what charges have been applied recently",account_charges
+hi :),greeting
+please features of personal loan,loan_information
+"hey, how much do you charge for imps ?",account_charges
+quick question - transactions between 2026-08-01 and 2026-08-31,transaction_history
+quick question - calculate the emi please,emi_calculation
+hey :),greeting
+i need help!,help
+ok thanks bye :),goodbye
+am i eligible for a student loan please,loan_eligibility
+which loans do you offer thanks,loan_information
+please how do i cook biryani today,fallback
+"hey, what benefits does my account have thanks",account_information
+What Is My Ledger Balance,balance_inquiry
+please why was a fee taken from my account thanks,transaction_explanation
+WHAT ARE THE ATM CHARGES NOW,account_charges
+WHO IS THIS PAYMENT TO,transaction_explanation
+"hello, debit card annual fee",account_charges
+HOW MUCH MINIMUM BALANCE SHOULD I MAINTAIN TODAY,minimum_balance
+can i get a education loan of 7.5 lakh for 2 years,loan_eligibility
+"hey, find emi for rs 8,00,000 loan",emi_calculation
+am i eligible for 7.5 lakh personal loan for 7 years,loan_eligibility
+tell me my current balance please,balance_inquiry
+"hi, what would the emi be for 7.5 lakh please",emi_calculation
+home loan versus car loan,loan_comparison
+WHAT IS THE PENALTY FOR LOW BALANCE NOW,minimum_balance
+when did i open my account please,account_information
+please i want to see my transaction history today,transaction_history
+do i qualify for a student loan thanks,loan_eligibility
+please what is the penalty for low balance please,minimum_balance
+what is my balance,balance_inquiry
+have a nice day!,goodbye
+"i want to know, why is there a debit of 3 lakh",transaction_explanation
+ok ?,fallback
+what are your capabilities!,help
+"i want to know, average monthly balance required",minimum_balance
+show my recent transactions,transaction_history
+QUICK QUESTION - ARE YOU A HUMAN,fallback
+what is the difference between a auto loan and a education loan now,loan_comparison
+hello assistant!,greeting
+"hi, service charges on my account please",account_charges
+"hey, service charges on my account today",account_charges
+can i afford this loan please,loan_eligibility
+"hi, show my debit transactions",transaction_history
+goodbye :),goodbye
+can you tell me show me the fee schedule,account_charges
+quick question - what are your loan rates today,interest_rate
+who is this payment to,transaction_explanation
+is a loan of 5 lakh affordable for me,loan_eligibility
+"i want to know, what will be the emi for a auto loan of four lakh",emi_calculation
+"i want to know, sms alert charges please",account_charges
+"hi, why is there a debit of 10 lakh",transaction_explanation
+"hello, unknown debit in my account",transaction_explanation
+"hello, loan products list",loan_information
+"hey, show my recent activity",transaction_history
+"hi, service charges on my account today",account_charges
+what happens if i don't maintain minimum balance today,minimum_balance
+emi for 7.5 lakh over 5 yrs please,emi_calculation
+I NEED 10 LAKH,loan_eligibility
+CAN YOU TELL ME COMPARE HOUSING LOAN WITH CAR LOAN NOW,loan_comparison
+tell me about loans,loan_information
+how much money do i have now,balance_inquiry
+show me the balance of my current account today,balance_inquiry
+PLEASE WHAT IS THE TENURE OF A EDUCATION LOAN,loan_information
+"hi, show all credits this month",transaction_history
+monthly payment for 25 lakh at 12%,emi_calculation
+why was a fee taken from my account,transaction_explanation
+"i want to know, what fees do you charge on my account today",account_charges
+"hey, explain this transaction now",transaction_explanation
+How Much Funds Do I Have ?,balance_inquiry
+how much is in my account please,balance_inquiry
+what interest do i get on my savings account,interest_rate
+"hello, when did i last make a payment",recent_transaction
+what is the minimum balance requirement today,minimum_balance
+explain the features of a current account thanks,account_information
+"hello, what is the gst on charges now",account_charges
+Could You Tell Me Latest Transaction Please,recent_transaction
+"hello, show transactions from last 30 days now",transaction_history
+i want to know about loans ?,loan_information
+CAN YOU TELL ME DETAILS OF MY SALARY ACCOUNT TODAY,account_information
+how much emi will i pay for 3 lakh for 36 months today,emi_calculation
+what is the penalty for low balance,minimum_balance
+COULD YOU TELL ME SHOW MY ATM WITHDRAWALS NOW,transaction_history

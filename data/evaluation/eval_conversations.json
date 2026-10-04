@@ -1,0 +1,100 @@
+[
+ {
+  "name": "loan_followup",
+  "customer_id": "CUST1001",
+  "turns": [
+   {
+    "query": "I want a personal loan.",
+    "expected_intent": "loan_eligibility",
+    "expected_tools": [
+     "check_loan_eligibility"
+    ],
+    "expect_contains": [
+     "Personal Loan"
+    ]
+   },
+   {
+    "query": "I need 5 lakh.",
+    "expected_intent": "loan_eligibility",
+    "expected_tools": [
+     "check_loan_eligibility"
+    ],
+    "expect_contains": [
+     "Personal Loan",
+     "5,00,000"
+    ]
+   },
+   {
+    "query": "for 4 years",
+    "expected_intent": "loan_eligibility",
+    "expected_tools": [
+     "check_loan_eligibility"
+    ],
+    "expect_contains": [
+     "4 years",
+     "5,00,000"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "balance_then_last_txn",
+  "customer_id": "CUST1001",
+  "turns": [
+   {
+    "query": "What is my balance?",
+    "expected_intent": "balance_inquiry",
+    "expected_tools": [
+     "get_account_balance"
+    ],
+    "expect_contains": [
+     "{avail:CUST1001}"
+    ]
+   },
+   {
+    "query": "What about my last transaction?",
+    "expected_intent": "recent_transaction",
+    "expected_tools": [
+     "get_recent_transaction"
+    ],
+    "expect_contains": [
+     "{txn_desc:CUST1001:0}"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "emi_followup",
+  "customer_id": "CUST1001",
+  "turns": [
+   {
+    "query": "calculate emi for 5 lakh at 10%",
+    "expected_intent": "emi_calculation",
+    "expected_tools": [],
+    "expect_contains": [
+     "tenure"
+    ]
+   },
+   {
+    "query": "for 5 years",
+    "expected_intent": "emi_calculation",
+    "expected_tools": [
+     "calculate_emi"
+    ],
+    "expect_contains": [
+     "{emi:500000:10:60}"
+    ]
+   },
+   {
+    "query": "what about 10 years?",
+    "expected_intent": "emi_calculation",
+    "expected_tools": [
+     "calculate_emi"
+    ],
+    "expect_contains": [
+     "{emi:500000:10:120}"
+    ]
+   }
+  ]
+ }
+]

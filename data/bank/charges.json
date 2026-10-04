@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "code": "SMS_ALERT",
+      "name": "SMS alert charges",
+      "amount": 15.0,
+      "frequency": "per quarter",
+      "gst_applicable": true
+    },
+    {
+      "code": "DEBIT_CARD_ANNUAL",
+      "name": "Debit card annual fee",
+      "amount": 250.0,
+      "frequency": "per year",
+      "gst_applicable": true
+    },
+    {
+      "code": "ATM_OTHER_BANK",
+      "name": "ATM withdrawal beyond free limit",
+      "amount": 21.0,
+      "frequency": "per transaction",
+      "gst_applicable": true
+    },
+    {
+      "code": "CHEQUE_BOOK",
+      "name": "Cheque book (after 25 free leaves per year)",
+      "amount": 4.0,
+      "frequency": "per leaf",
+      "gst_applicable": true
+    },
+    {
+      "code": "IMPS_SMALL",
+      "name": "IMPS up to ₹1,000",
+      "amount": 0.0,
+      "frequency": "per transaction",
+      "gst_applicable": false
+    },
+    {
+      "code": "IMPS_MID",
+      "name": "IMPS above ₹1,000 and up to ₹1,00,000",
+      "amount": 5.0,
+      "frequency": "per transaction",
+      "gst_applicable": true
+    },
+    {
+      "code": "IMPS_HIGH",
+      "name": "IMPS above ₹1,00,000 and up to ₹5,00,000",
+      "amount": 15.0,
+      "frequency": "per transaction",
+      "gst_applicable": true
+    },
+    {
+      "code": "NEFT_ONLINE",
+      "name": "NEFT / RTGS / UPI (online)",
+      "amount": 0.0,
+      "frequency": "per transaction",
+      "gst_applicable": false
+    },
+    {
+      "code": "DUPLICATE_STATEMENT",
+      "name": "Duplicate physical statement",
+      "amount": 100.0,
+      "frequency": "per request",
+      "gst_applicable": true
+    }
+  ],
+  "gst_rate_pct": 18,
+  "account_types": {
+    "savings": {
+      "display_name": "Savings Account",
+      "min_balance": 5000,
+      "min_balance_basis": "average monthly balance",
+      "penalty": 300,
+      "interest_rate": 3.5,
+      "atm_free_own": 5,
+      "atm_free_other": 3
+    },
+    "salary": {
+      "display_name": "Salary Account",
+      "min_balance": 0,
+      "min_balance_basis": "zero balance while a monthly salary credit is received",
+      "penalty": 0,
+      "interest_rate": 3.5,
+      "atm_free_own": 8,
+      "atm_free_other": 3
+    },
+    "current": {
+      "display_name": "Current Account",
+      "min_balance": 25000,
+      "min_balance_basis": "average quarterly balance",
+      "penalty": 750,
+      "interest_rate": 0.0,
+      "atm_free_own": 10,
+      "atm_free_other": 3
+    }
+  }
+}

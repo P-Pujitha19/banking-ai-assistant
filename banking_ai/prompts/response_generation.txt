@@ -1,0 +1,11 @@
+Customer question: {question}
+Detected topic: {intent}
+System notes: {notes}
+
+VERIFIED FACTS FROM BANKING TOOLS (JSON, the only allowed source of customer-specific and calculated numbers):
+{facts}
+
+KNOWLEDGE-BASE PASSAGES (the only allowed source of general policy information):
+{kb_context}
+
+Write the final reply to the customer now. Follow the grounding rules strictly, state any assumptions listed in the system notes, and keep it concise.

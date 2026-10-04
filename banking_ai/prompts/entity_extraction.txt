@@ -1,0 +1,16 @@
+Extract banking entities from the customer message and return them in the requested schema.
+
+Rules:
+- Only extract what is explicitly stated. Use null for anything not mentioned.
+- Money amounts are in rupees as plain numbers: 5 lakh = 500000, 1 crore = 10000000, 75k = 75000.
+- Tenure is in months: 5 years = 60, 18 months = 18.
+- interest_rate is an annual percentage number, for example 10.
+- loan_type must be one of personal_loan, home_loan, car_loan, education_loan.
+- account_type must be one of savings, current, salary.
+- period is one of this_month, last_month, today, yesterday, this_week, last_week, last_7_days, last_30_days.
+- Never keep full account numbers; only the last 4 digits.
+
+Examples:
+Message: Can I get a personal loan of 5 lakh for 5 years? -> loan_type personal_loan, loan_amount 500000, tenure_months 60
+Message: Show my last 5 transactions -> number_of_transactions 5
+Message: EMI for 12 lakh over 15 years at 8.5 percent -> loan_amount 1200000, tenure_months 180, interest_rate 8.5
